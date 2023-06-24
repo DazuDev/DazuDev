@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./IMG/IMG-First.jpg" align="center" style="width: 90%" />
+<img src="./IMG/IMG-First.jpg" align="center" style="width: 80%" />
 </div>
 
 ### <div align="center">Hi, I'm Daniel</div>
