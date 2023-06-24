@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536_640.jpg" align="center" style="width: 90%" />
 </div>
-### **_<div align="center">Hi, I'm Daniel</div>_**
+
+### <div align="center">Hi, I'm Daniel</div>
 
 - 📫 Email: gestiondecuentas.dani@gmail.com
 - 🔭 I’m currently working on: [Github](https://github.com/DanielZ-Code)
