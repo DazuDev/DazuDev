@@ -40,7 +40,7 @@
 
 ## My personal Links
 
-<div align="center" style="margin: 0 20px;">
+<div align="center">
 <a href="https://github.com/GFDanielZ" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 0 20px;" />
 </a>
