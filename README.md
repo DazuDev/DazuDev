@@ -46,7 +46,7 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="./IMG/VSC.png" alt="VisualStudio" height="50" /></a>
 <a href="https://www.sublimetext.com/" target="_blank"><img style="margin: 10px" src="./IMG/Sublime-Text.png" alt="SublimeText" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="./IMG/Github.png" alt="GitHub" height="50" /></a>
-
+<a href="https://learn.microsoft.com/en-us/windows/terminal/install" target="_blank"><img style="margin: 10px" src="./IMG/Terminal.png" alt="Terminal" height="50" /></a>
 </div>
 
 </td>
