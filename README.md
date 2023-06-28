@@ -124,7 +124,7 @@
   <!DOCTYPE html>
   <html>
   <head>
-      <title>Página Creativa</title>
+      <title>😀</title>
       <style>
           body {
               background-color: #f0f0f0;
