@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./IMG/Programmer.gif" align="center" style="width: 100%" />
+<img src="./IMG/Programmer.gif" align="center" width="80%"; />
 </div>
 
 # <div align="center">Hi, I'm Daniel</div>
