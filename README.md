@@ -67,13 +67,13 @@
 </table>
 
 <br>
-<div style="width: 80%">
+<div>
   <div style="display: flex; align-items: center;">
     <div style="flex: 1; text-align: left;">
       <p>I am a person who enjoys playing video games, having fun with colleagues or friends, and above all, having a good time playing story mode games.</p>
     </div>
     <div style="flex: 1;">
-      <img src="./IMG/Games.jpeg" alt="Videogames" width="100%" margin="30px">
+      <img src="./IMG/Games.jpeg" alt="Videogames" width="50%" margin="30px">
     </div>
   </div>
 
@@ -82,7 +82,7 @@
       <p>I am a person who is very curious, and I got hooked on a topic I saw about optimizing operating systems. It interested me so much that I even made my own compilation of optimizations for Windows and MacOS.</p>
     </div>
     <div style="flex: 1;">
-      <img src="./IMG/Laptop.png" alt="Optimizations" width="100%">
+      <img src="./IMG/Laptop.png" alt="Optimizations" width="50%">
     </div>
   </div>
 </div>
