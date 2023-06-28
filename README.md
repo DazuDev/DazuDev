@@ -1,9 +1,3 @@
-<style>
-  *{
-    margin: 10px;
-  }
-</style>
-
 <div align="center">
 <img src="./IMG/Programmer.gif" align="center" style="width: 80%" />
 </div>
