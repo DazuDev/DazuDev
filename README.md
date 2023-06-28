@@ -48,6 +48,7 @@
 <a href="https://www.sublimetext.com/" target="_blank"><img style="margin: 10px" src="./IMG/Sublime-Text.png" alt="SublimeText" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="./IMG/Github.png" alt="GitHub" height="50" /></a>
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="./IMG/Figma.png" alt="Figma" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="./IMG/GIMP.png" alt="GIMP" height="50"></a>
 </div>
 
 </td>
@@ -111,13 +112,12 @@
 <br>
 
 ## 👁️‍🗨️ My GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=DanielZ-Code&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
 
-## 🌐 Random Dev Quot
-
+## 🌐 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-    
+
+<br>
 <br>
 
 ``` html
