@@ -111,11 +111,13 @@
 <br>
 
 ## 👁️‍🗨️ My GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=DanielZ-Code&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
 
-## 🌐 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🌐 Random Dev Quot
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+    
 <br>
 
 ``` html
