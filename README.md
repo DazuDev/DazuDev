@@ -67,7 +67,7 @@
 </table>
 
 <br>
-<div style="width: 50%">
+<div>
   <div style="display: flex; align-items: center;">
     <div style="flex: 1; text-align: left;">
       <p>I am a person who enjoys playing video games, having fun with colleagues or friends, and above all, having a good time playing story mode games.</p>
