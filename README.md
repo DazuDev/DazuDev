@@ -92,7 +92,7 @@
 <br>
 <br>
 
->### Where to download my optimizer to improve my computer's performance:
+> ### Where to download my optimizer to improve my computer's performance:
 
 * First, you will have to go to GitHub and visit my repository [DanielZ-Optimizer](https://github.com/DanielZ-Code)
     * Now you will have to download it in ZIP format.
