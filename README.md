@@ -111,11 +111,19 @@
 
 <br>
 
-## 👁️‍🗨️ My GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=DanielZ-Code&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-
 ## 🌐 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<div align="center">
+  <h3 align="center">🌐 Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="150" alt="Quote" />
+</div>
+
+<div align="center">
+  <h3 align="center">👁️‍🗨️ Statistical registry</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielZ-Code&theme=radical&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantumvflux&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages" />
+</div>
 
 <br>
 <br>
@@ -123,7 +131,9 @@
 ``` html
   <!DOCTYPE html>
   <html>
+
   <head>
+      <link rel="icon" href="./IMG/wave.gif" type="image/x-icon">
       <title>😀</title>
       <style>
           body {
@@ -132,26 +142,28 @@
               background-size: 400% 400%;
               animation: gradient 10s ease infinite;
           }
-          
+
           @keyframes gradient {
               0% {
                   background-position: 0% 50%;
               }
+
               50% {
                   background-position: 100% 50%;
               }
+
               100% {
                   background-position: 0% 50%;
               }
           }
-          
+
           .container {
               display: flex;
               justify-content: center;
               align-items: center;
               height: 100vh;
           }
-          
+
           .button {
               background-color: transparent;
               color: #fff;
@@ -167,7 +179,7 @@
               position: relative;
               overflow: hidden;
           }
-          
+
           .button:before {
               content: '';
               position: absolute;
@@ -179,30 +191,32 @@
               opacity: 0;
               transition: opacity 0.5s ease;
           }
-          
+
           .button:hover:before {
               opacity: 1;
           }
-          
+
           @keyframes pulse {
               0% {
                   transform: scale(1);
                   box-shadow: 0 0 0 rgba(255, 255, 255, 0);
               }
+
               50% {
                   transform: scale(1.05);
                   box-shadow: 0 0 20px 10px rgba(255, 255, 255, 0.4);
               }
+
               100% {
                   transform: scale(1);
                   box-shadow: 0 0 0 rgba(255, 255, 255, 0);
               }
           }
-          
+
           .button:hover {
               background-color: rgba(255, 255, 255, 0.3);
           }
-          
+
           .button span {
               display: inline-block;
               opacity: 0;
@@ -210,12 +224,13 @@
               animation: fadeIn 1s ease forwards;
               animation-delay: 2s;
           }
-          
+
           @keyframes fadeIn {
               0% {
                   opacity: 0;
                   transform: translateY(-20px);
               }
+
               100% {
                   opacity: 1;
                   transform: translateY(0);
@@ -223,6 +238,7 @@
           }
       </style>
   </head>
+
   <body>
       <div class="container">
           <button class="button">
@@ -244,20 +260,21 @@
           const button = document.querySelector('.button');
           const spans = button.querySelectorAll('span');
           let index = 0;
-      
+
           function animateText() {
               spans[index].style.opacity = '1';
               spans[index].style.transform = 'translateY(0)';
               index++;
-      
+
               if (index < spans.length) {
                   setTimeout(animateText, 200);
               }
           }
-      
+
           animateText();
       </script>
   </body>
+
   </html>
-<!-- Copy and paste this code into an .html file and then open it on your local network :) -->
+  <!-- Copy and paste this code into an .html file and then open it on your local network :) -->
 ```
