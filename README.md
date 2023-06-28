@@ -68,7 +68,7 @@
 
 <br>
 
-  <div style="display: flex; align-items: center;">
+  <div>
     <div style="flex: 1;">
       <img src="./IMG/Games.jpeg" alt="Videogames" width="30%" align="right" margin="30px">
     </div>
@@ -77,7 +77,7 @@
     </div>
   </div>
   
-  <div style="display: flex; align-items: center;">
+  <div>
     <div style="flex: 1;">
       <img src="./IMG/Laptop.png" alt="Optimizations" width="30%" align="right" margin="30px">
     </div>
