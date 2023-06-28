@@ -18,7 +18,7 @@
 
 ### Frontend
 
-<div align="center">
+<div align="center" style="margin: 30px">
 <a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="./IMG/HTML.png" alt="HTML" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="./IMG/CSS.png" alt="CSS" height="50" /></a>
 <a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="./IMG/JavaScript.png" alt="JavaScript" height="50" /></a>
@@ -30,7 +30,7 @@
 
 ### Backend
 
-<div align="center">
+<div align="center" style="margin: 30px">
 <a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="./IMG/JavaScript.png" alt="JavaScript" height="50" /></a>
 <a href="https://www.w3schools.com/python/" target="_blank"><img style="margin: 10px" src="./IMG/Python.png" alt="Python" height="50" /></a>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="./IMG/Git.png" alt="Git" height="50" /></a>
@@ -43,7 +43,7 @@
 
 ### Tools
 
-<div align="center">
+<div align="center" style="margin: 30px">
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="./IMG/VSC.png" alt="VisualStudio" height="50" /></a>
 <a href="https://www.sublimetext.com/" target="_blank"><img style="margin: 10px" src="./IMG/Sublime-Text.png" alt="SublimeText" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="./IMG/Github.png" alt="GitHub" height="50" /></a>
@@ -70,7 +70,7 @@
 
 <div>
   <div>
-    <img src="./IMG/Games.jpeg" alt="Videogames" width="30%" align="right" margin="30px">
+    <img src="./IMG/Games.jpeg" alt="Videogames" width="35%" align="right" style="margin: 10px">
   </div>
   <div style="text-align: left;">
     <p>I love video games and started playing them at the age of 3. Video games are a very entertaining hobby for me, especially when I play them with companions or friends. I enjoy exploring virtual worlds and immersing myself in great experiences.
@@ -82,7 +82,7 @@
 
 <div>
   <div>
-      <img src="./IMG/Laptop.png" alt="Optimizations" width="30%" align="right">
+      <img src="./IMG/Laptop.png" alt="Optimizations" width="35%" align="right" style="margin: 10px">
   </div>
   <div style="text-align: left;">
     <p>I am an extremely curious person, and sometimes I learn things I didn't know before. This curiosity has led me to create something that I have dedicated time to, and it has allowed me to acquire knowledge about Operating Systems, especially Windows, as it is a highly compatible, easy to manage, and highly customizable operating system.One of the topics that caught my attention was how to optimize the system and slightly increase the power of the computer. This curiosity led me to create a folder dedicated to optimizing the Windows and MacOS systems.</p>
