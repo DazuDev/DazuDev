@@ -73,7 +73,8 @@
       <img src="./IMG/Games.jpeg" alt="Videogames" width="30%" align="right" margin="30px">
     </div>
     <div style="text-align: left;">
-      <p>I am a person who enjoys playing video games, having fun with colleagues or friends, and above all, having a good time playing story mode games.</p>
+      <p>I love video games and started playing them at the age of 3. Video games are a very entertaining hobby for me, especially when I play them with companions or friends. I enjoy exploring virtual worlds and immersing myself in great experiences.
+        I would like to give you a special recommendation if you play video games: Keep exploring and enjoying games, as there are always experiences waiting for you. No matter what genre you prefer, there will always be titles that challenge and inspire you to enjoy video games. My          best recommendation is to play and enjoy, but avoid excessive gaming.</p>
     </div>
   </div>
   
