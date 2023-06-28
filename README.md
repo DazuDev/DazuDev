@@ -2,7 +2,7 @@
 <img src="./IMG/Programmer.gif" align="center" width="80%"; />
 </div>
 
-# <div align="center">Hi, I'm Daniel</div>
+# <div align="center">Hi, I'm Daniel <img src="./IMG/wave.gif" width="50px">😁</div>
 
 - 📫 Email: gestiondecuentas.dani@gmail.com
 - 🔭 I’m currently working on: [Github](https://github.com/DanielZ-Code)
