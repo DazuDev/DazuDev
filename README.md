@@ -18,7 +18,7 @@
 
 ### Frontend
 
-<div align="center">
+<div align="center" style="margin: 30px">
 <a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="./IMG/HTML.png" alt="HTML" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="./IMG/CSS.png" alt="CSS" height="50" /></a>
 <a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="./IMG/JavaScript.png" alt="JavaScript" height="50" /></a>
@@ -30,7 +30,7 @@
 
 ### Backend
 
-<div align="center">
+<div align="center" style="margin: 30px">
 <a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="./IMG/JavaScript.png" alt="JavaScript" height="50" /></a>
 <a href="https://www.w3schools.com/python/" target="_blank"><img style="margin: 10px" src="./IMG/Python.png" alt="Python" height="50" /></a>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="./IMG/Git.png" alt="Git" height="50" /></a>
@@ -43,7 +43,7 @@
 
 ### Tools
 
-<div align="center">
+<div align="center" style="margin: 30px">
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="./IMG/VSC.png" alt="VisualStudio" height="50" /></a>
 <a href="https://www.sublimetext.com/" target="_blank"><img style="margin: 10px" src="./IMG/Sublime-Text.png" alt="SublimeText" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="./IMG/Github.png" alt="GitHub" height="50" /></a>
@@ -69,13 +69,13 @@
 <br>
 
 <div>
-  <div>
-    <img src="./IMG/Games.jpeg" alt="Videogames" width="35%" align="right" style="margin: 10px">
-  </div>
-  <div style="text-align: left;">
-    <p>I love video games and started playing them at the age of 3. Video games are a very entertaining hobby for me, especially when I play them with companions or friends. I enjoy exploring virtual worlds and immersing myself in great experiences.
-    I would like to give you a special recommendation if you play video games: Keep exploring and enjoying games, as there are always experiences waiting for you. No matter what genre you prefer, there will always be titles that challenge and inspire you to enjoy video games. My best recommendation is to play and enjoy, but avoid excessive gaming.<p>
-  </div>
+    <div style="display: flex;">
+      <img src="./IMG/Games.jpeg" alt="Videogames" width="35%" align="right" style="margin: 10px">
+    </div>
+    <div style="text-align: left;">
+      <p>I love video games and started playing them at the age of 3. Video games are a very entertaining hobby for me, especially when I play them with companions or friends. I enjoy exploring virtual worlds and immersing myself in great experiences.
+      I would like to give you a special recommendation if you play video games: Keep exploring and enjoying games, as there are always experiences waiting for you. No matter what genre you prefer, there will always be titles that challenge and inspire you to enjoy video games. My best recommendation is to play and enjoy, but avoid excessive gaming.<p>
+    </div>
 </div>
 
 <br>
@@ -92,7 +92,7 @@
 <br>
 <br>
 
-> ### Where to download my optimizer to improve my computer's performance:
+>### Where to download my optimizer to improve my computer's performance:
 
 * First, you will have to go to GitHub and visit my repository [DanielZ-Optimizer](https://github.com/DanielZ-Code)
     * Now you will have to download it in ZIP format.
@@ -251,3 +251,9 @@
   </html>
 <!-- Copy and paste this code into an .html file and then open it on your local network :) -->
 ```
+
+## 👁️‍🗨️ My GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=DanielZ-Code&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
+
+## 🌐 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
