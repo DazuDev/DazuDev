@@ -77,7 +77,7 @@
     I would like to give you a special recommendation if you play video games: Keep exploring and enjoying games, as there are always experiences waiting for you. No matter what genre you prefer, there will always be titles that challenge and inspire you to enjoy video games. My best recommendation is to play and enjoy, but avoid excessive gaming.<p>
   </div>
 </div>
-  
+<br>
 <div>
   <div>
       <img src="./IMG/Laptop.png" alt="Optimizations" width="30%" align="right">
