@@ -100,54 +100,155 @@
     * I tried to make the files more secure and avoid making significant changes to the Registry on your computer, but it was challenging since Windows Defender may detect it as a threat, unfortunately. However, I will try to find a solution to this problem.
     * **
 
+## My Personal Links 
+<div align="center">
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 20;"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin: 20;"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="WebSite" style="margin: 20;"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube style="margin: 20;"></a>
+</div>
+
+<br>
+
 ``` html
   <!DOCTYPE html>
   <html>
-    <head>
+  <head>
+      <title>Página Creativa</title>
       <style>
-        #hello-world {
-          font-size: 36px;
-          visibility: hidden;
-        }
+          body {
+              background-color: #f0f0f0;
+              background-image: linear-gradient(45deg, #ff69b4, #00bfff, #ff4500);
+              background-size: 400% 400%;
+              animation: gradient 10s ease infinite;
+          }
+          
+          @keyframes gradient {
+              0% {
+                  background-position: 0% 50%;
+              }
+              50% {
+                  background-position: 100% 50%;
+              }
+              100% {
+                  background-position: 0% 50%;
+              }
+          }
+          
+          .container {
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              height: 100vh;
+          }
+          
+          .button {
+              background-color: transparent;
+              color: #fff;
+              padding: 20px 40px;
+              border-radius: 50px;
+              box-shadow: 0 0 0 rgba(255, 255, 255, 0);
+              animation: pulse 3s ease-in-out infinite;
+              font-size: 36px;
+              border: none;
+              font-family: 'Pacifico', cursive;
+              text-transform: uppercase;
+              transition: all 0.3s ease-in-out;
+              position: relative;
+              overflow: hidden;
+          }
+          
+          .button:before {
+              content: '';
+              position: absolute;
+              top: -30px;
+              left: 0;
+              width: 100%;
+              height: 30px;
+              background: radial-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0));
+              opacity: 0;
+              transition: opacity 0.5s ease;
+          }
+          
+          .button:hover:before {
+              opacity: 1;
+          }
+          
+          @keyframes pulse {
+              0% {
+                  transform: scale(1);
+                  box-shadow: 0 0 0 rgba(255, 255, 255, 0);
+              }
+              50% {
+                  transform: scale(1.05);
+                  box-shadow: 0 0 20px 10px rgba(255, 255, 255, 0.4);
+              }
+              100% {
+                  transform: scale(1);
+                  box-shadow: 0 0 0 rgba(255, 255, 255, 0);
+              }
+          }
+          
+          .button:hover {
+              background-color: rgba(255, 255, 255, 0.3);
+          }
+          
+          .button span {
+              display: inline-block;
+              opacity: 0;
+              transform: translateY(-20px);
+              animation: fadeIn 1s ease forwards;
+              animation-delay: 2s;
+          }
+          
+          @keyframes fadeIn {
+              0% {
+                  opacity: 0;
+                  transform: translateY(-20px);
+              }
+              100% {
+                  opacity: 1;
+                  transform: translateY(0);
+              }
+          }
       </style>
-    </head>
-    <body>
-      <h1 id="hello-world"></h1>
-
+  </head>
+  <body>
+      <div class="container">
+          <button class="button">
+              <span>H</span>
+              <span>e</span>
+              <span>l</span>
+              <span>l</span>
+              <span>o</span>
+              <span>&nbsp;</span>
+              <span>W</span>
+              <span>o</span>
+              <span>r</span>
+              <span>l</span>
+              <span>d</span>
+              <span>!</span>
+          </button>
+      </div>
       <script>
-        const text = "Hello World!";
-        const container = document.getElementById("hello-world");
-
-        function showLetters() {
+          const button = document.querySelector('.button');
+          const spans = button.querySelectorAll('span');
           let index = 0;
-          const interval = setInterval(() => {
-            if (index >= text.length) {
-              clearInterval(interval);
-              return;
-            }
-
-            container.innerHTML += text[index];
-            container.style.visibility = "visible";
-
-            index++;
-          }, 100);
-        }
-
-        window.addEventListener("load", showLetters);
-
-        // Copy and paste this code into an .html file and then open it on your local network :)
-
+      
+          function animateText() {
+              spans[index].style.opacity = '1';
+              spans[index].style.transform = 'translateY(0)';
+              index++;
+      
+              if (index < spans.length) {
+                  setTimeout(animateText, 200);
+              }
+          }
+      
+          animateText();
       </script>
-    </body>
+  </body>
   </html>
+
+Copy and paste this code into an .html file and then open it on your local network :)
 ```
-<br>
-
-## My Personal Links
-
-<div align="center">
-<a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 20;"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin: 20;"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="WebSite" style="margin: 20;"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube style="margin: 20;"></a>
-</div>
