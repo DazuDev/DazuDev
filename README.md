@@ -71,6 +71,7 @@
 
 <div>
     <div>
+    <!-- Poner link en esta imagen sobre mis juegos favoritos -->
       <img src="./IMG/Games.jpeg" alt="Videogames" width="35%" align="right" style="margin: 10px">
     </div>
     <div style="text-align: left;">
@@ -95,7 +96,7 @@
 
 >### Where to download my optimizer to improve my computer's performance:
 
-* First, you will have to go to GitHub and visit my repository [DanielZ-Optimizer](https://github.com/DanielZ-Code)
+* First, you will have to go to GitHub and visit my repository [DanielZ-Optimizer](https://github.com/DanielZ-Code/DanielZ-Optimizer)
     * Now you will have to download it in ZIP format.
     * Then you open the folder and explore what you want to optimize.
     * I tried to make the files more secure and avoid making significant changes to the Registry on your computer, but it was challenging since Windows Defender may detect it as a threat, unfortunately. However, I will try to find a solution to this problem.
@@ -103,10 +104,10 @@
 
 ## My Personal Links <img src="./IMG/ContactMe.gif" width="54px">
 <div align="center">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 20;"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin: 20;"></a>
+  <a href="https://www.linkedin.com/in/daniel-alejandro-b62320273/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 20;"></a>
+  <a href="gfdanielz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin: 20;"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="WebSite" style="margin: 20;"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube style="margin: 20;"></a>
+  <a href="https://www.youtube.com/@DaniBytes" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube style="margin: 20;"></a>
 </div>
 
 <br>
@@ -114,7 +115,7 @@
 <div align="center">
   <h3 align="center">👁️‍🗨️ Statistical registry</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=DanielZ-Code&theme=radical&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantumvflux&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielZ-Code&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages" />
 </div>
 
 <div align="center">
