@@ -18,7 +18,7 @@
 
 ### Frontend
 
-<div align="center">
+<div align="center" style="margin: 30px">
 <a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="./IMG/HTML.png" alt="HTML" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="./IMG/CSS.png" alt="CSS" height="50" /></a>
 <a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="./IMG/JavaScript.png" alt="JavaScript" height="50" /></a>
@@ -30,7 +30,7 @@
 
 ### Backend
 
-<div align="center">
+<div align="center" style="margin: 30px">
 <a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="./IMG/JavaScript.png" alt="JavaScript" height="50" /></a>
 <a href="https://www.w3schools.com/python/" target="_blank"><img style="margin: 10px" src="./IMG/Python.png" alt="Python" height="50" /></a>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="./IMG/Git.png" alt="Git" height="50" /></a>
@@ -43,7 +43,7 @@
 
 ### Tools
 
-<div align="center">
+<div align="center" style="margin: 30px">
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="./IMG/VSC.png" alt="VisualStudio" height="50" /></a>
 <a href="https://www.sublimetext.com/" target="_blank"><img style="margin: 10px" src="./IMG/Sublime-Text.png" alt="SublimeText" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="./IMG/Github.png" alt="GitHub" height="50" /></a>
@@ -249,6 +249,5 @@
       </script>
   </body>
   </html>
-
-Copy and paste this code into an .html file and then open it on your local network :)
+<!-- Copy and paste this code into an .html file and then open it on your local network :) -->
 ```
