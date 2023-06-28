@@ -10,7 +10,7 @@
 
 <br>
 
-## My Skill Set
+## My Skill Set <img src="./IMG/Code.gif" width="25px">
 
 <table align="center">
 <tr>
@@ -101,7 +101,7 @@
     * I tried to make the files more secure and avoid making significant changes to the Registry on your computer, but it was challenging since Windows Defender may detect it as a threat, unfortunately. However, I will try to find a solution to this problem.
     * **
 
-## My Personal Links 
+## My Personal Links <img src="./IMG/ContactMe.gif" width="54px">
 <div align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 20;"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin: 20;"></a>
