@@ -70,7 +70,7 @@
 <br>
 
 <div>
-    <div style="display: flex;">
+    <div>
       <img src="./IMG/Games.jpeg" alt="Videogames" width="35%" align="right" style="margin: 10px">
     </div>
     <div style="text-align: left;">
