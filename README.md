@@ -84,9 +84,9 @@
 
 <div>
   <div>
-      <img src="./IMG/Laptop.png" alt="Optimizations" width="40%" align="right" style="margin: 10px">
+      <img src="./IMG/Laptop.png" alt="Optimizations" width="30%" align="right" style="margin: 10px">
   </div>
-  <div style="text-align: left;">
+  <div style="text-align: left;" width="60%">
     <p>I am an extremely curious person, and sometimes I learn things I didn't know before. This curiosity has led me to create something that I have dedicated time to, and it has allowed me to acquire knowledge about Operating Systems, especially Windows, as it is a highly compatible, easy to manage, and highly customizable operating system.One of the topics that caught my attention was how to optimize the system and slightly increase the power of the computer. This curiosity led me to create a folder dedicated to optimizing the Windows and MacOS systems.</p>
   </div>
 </div>
