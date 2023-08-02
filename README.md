@@ -92,7 +92,7 @@
 <div>
   <div align="center">
     <!-- Poner link en esta imagen sobre mis juegos favoritos -->
-    <img src="./IMG/Games.jpeg" alt="Videogames" width="300px" />
+    <img src="./IMG/Games.jpeg" alt="Videogames" width="60%" />
   </div>
   <div style="text-align: justify;">
     <p>
@@ -105,7 +105,7 @@
 
 <div>
   <div align="center">
-    <img src="./IMG/Laptop.png" alt="Optimizations" width="300px" />
+    <img src="./IMG/Laptop.png" alt="Optimizations" width="60%" />
   </div>
   <div style="text-align: justify;">
     <p>
