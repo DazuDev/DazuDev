@@ -18,16 +18,16 @@
       <div align="center" style="margin: 30px">
         <!-- Frontend Skills -->
         <a href="https://www.w3schools.com/html/" target="_blank">
-          <img style="margin: 10px; max-height: 50px;" src="./IMG/HTML.png" alt="HTML" />
+          <img style="margin: 10px; width: 30%;" src="./IMG/HTML.png" alt="HTML" />
         </a>
         <a href="https://www.w3schools.com/css/" target="_blank">
-          <img style="margin: 10px; max-height: 50px;" src="./IMG/CSS.png" alt="CSS" />
+          <img style="margin: 10px; width: 30%;" src="./IMG/CSS.png" alt="CSS" />
         </a>
         <a href="https://www.w3schools.com/js/" target="_blank">
-          <img style="margin: 10px; max-height: 50px;" src="./IMG/JavaScript.png" alt="JavaScript" />
+          <img style="margin: 10px; width: 30%;" src="./IMG/JavaScript.png" alt="JavaScript" />
         </a>
         <a href="https://www.w3schools.com/bootstrap/" target="_blank">
-          <img style="margin: 10px; max-height: 50px;" src="./IMG/Bootstrap.png" alt="Bootstrap" />
+          <img style="margin: 10px; width: 30%;" src="./IMG/Bootstrap.png" alt="Bootstrap" />
         </a>
       </div>
     </td>
@@ -35,19 +35,19 @@
       <div align="center" style="margin: 30px">
         <!-- Backend Skills -->
         <a href="https://www.w3schools.com/js/" target="_blank">
-          <img style="margin: 10px; max-height: 50px;" src="./IMG/JavaScript.png" alt="JavaScript" />
+          <img style="margin: 10px; width: 30%;" src="./IMG/JavaScript.png" alt="JavaScript" />
         </a>
         <a href="https://www.w3schools.com/python/" target="_blank">
-          <img style="margin: 10px; max-height: 50px;" src="./IMG/Python.png" alt="Python" />
+          <img style="margin: 10px; width: 30%;" src="./IMG/Python.png" alt="Python" />
         </a>
         <a href="https://git-scm.com/" target="_blank">
-          <img style="margin: 10px; max-height: 50px;" src="./IMG/Git.png" alt="Git" />
+          <img style="margin: 10px; width: 30%;" src="./IMG/Git.png" alt="Git" />
         </a>
         <a href="https://es.wikipedia.org/wiki/Bash" target="_blank">
-          <img style="margin: 10px; max-height: 50px;" src="./IMG/Bash.png" alt="Bash" />
+          <img style="margin: 10px; width: 30%;" src="./IMG/Bash.png" alt="Bash" />
         </a>
         <a href="https://learn.microsoft.com/en-us/windows/terminal/install" target="_blank">
-          <img style="margin: 10px; max-height: 50px;" src="./IMG/Terminal.png" alt="Terminal" />
+          <img style="margin: 10px; width: 30%;" src="./IMG/Terminal.png" alt="Terminal" />
         </a>
       </div>
     </td>
@@ -55,19 +55,19 @@
       <div align="center" style="margin: 30px">
         <!-- Tools -->
         <a href="https://code.visualstudio.com/" target="_blank">
-          <img style="margin: 10px; max-height: 50px;" src="./IMG/VSC.png" alt="VisualStudio" />
+          <img style="margin: 10px; width: 30%;" src="./IMG/VSC.png" alt="VisualStudio" />
         </a>
         <a href="https://www.sublimetext.com/" target="_blank">
-          <img style="margin: 10px; max-height: 50px;" src="./IMG/Sublime-Text.png" alt="SublimeText" />
+          <img style="margin: 10px; width: 30%;" src="./IMG/Sublime-Text.png" alt="SublimeText" />
         </a>
         <a href="https://github.com/" target="_blank">
-          <img style="margin: 10px; max-height: 50px;" src="./IMG/Github.png" alt="GitHub" />
+          <img style="margin: 10px; width: 30%;" src="./IMG/Github.png" alt="GitHub" />
         </a>
         <a href="https://www.figma.com/" target="_blank">
-          <img style="margin: 10px; max-height: 50px;" src="./IMG/Figma.png" alt="Figma" />
+          <img style="margin: 10px; width: 30%;" src="./IMG/Figma.png" alt="Figma" />
         </a>
         <a href="https://www.gimp.org" target="_blank">
-          <img style="margin: 10px; max-height: 50px;" src="./IMG/GIMP.png" alt="GIMP" />
+          <img style="margin: 10px; width: 30%;" src="./IMG/GIMP.png" alt="GIMP" />
         </a>
       </div>
     </td>
@@ -76,11 +76,11 @@
         <!-- Languages -->
         <p>Native:</p>
         <a href="https://es.wikipedia.org/wiki/México/" target="_blank">
-          <img style="margin: 10px; max-height: 50px;" src="./IMG/Mexico.png" alt="Mexico" />
+          <img style="margin: 10px; width: 100%;" src="./IMG/Mexico.png" alt="Mexico" />
         </a>
         <p>Learning:</p>
         <a href="https://en.wikipedia.org/wiki/United_States/" target="_blank">
-          <img style="margin: 10px; max-height: 50px;" src="./IMG/United-States.png" alt="UnitedStates" />
+          <img style="margin: 10px; width: 100%;" src="./IMG/United-States.png" alt="UnitedStates" />
         </a>
       </div>
     </td>
