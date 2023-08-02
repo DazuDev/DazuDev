@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./IMG/Programmer.gif" align="center" width="80%"; />
+  <img src="./IMG/Programmer.gif" align="center" style="max-width: 80%;" />
 </div>
 
 # <div align="center">Hi, I'm Daniel <img src="./IMG/wave.gif" width="35px">😁</div>
@@ -13,81 +13,104 @@
 ## My Skill Set <img src="./IMG/Code.gif" width="25px">
 
 <table align="center">
-<tr>
-<td valign="top" width="30%">
-
-### Frontend
-
-<div align="center" style="margin: 30px">
-<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="./IMG/HTML.png" alt="HTML" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="./IMG/CSS.png" alt="CSS" height="50" /></a>
-<a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="./IMG/JavaScript.png" alt="JavaScript" height="50" /></a>
-<a href="https://www.w3schools.com/bootstrap/" target="_blank"><img style="margin: 10px" src="./IMG/Bootstrap.png" alt="Bootstrap" height="50" /></a>
-</div>
-
-</td>
-<td valign="top" width="30%">
-
-### Backend
-
-<div align="center" style="margin: 30px">
-<a href="https://www.w3schools.com/js/" target="_blank"><img style="margin: 10px" src="./IMG/JavaScript.png" alt="JavaScript" height="50" /></a>
-<a href="https://www.w3schools.com/python/" target="_blank"><img style="margin: 10px" src="./IMG/Python.png" alt="Python" height="50" /></a>
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="./IMG/Git.png" alt="Git" height="50" /></a>
-<a href="https://es.wikipedia.org/wiki/Bash" target="_blank"><img style="margin: 10px" src="./IMG/Bash.png" alt="Bash" height="50" /></a>
-<a href="https://learn.microsoft.com/en-us/windows/terminal/install" target="_blank"><img style="margin: 10px" src="./IMG/Terminal.png" alt="Terminal" height="50" /></a>
-</div>
-
-</td>
-<td valign="top" width="30%">
-
-### Tools
-
-<div align="center" style="margin: 30px">
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="./IMG/VSC.png" alt="VisualStudio" height="50" /></a>
-<a href="https://www.sublimetext.com/" target="_blank"><img style="margin: 10px" src="./IMG/Sublime-Text.png" alt="SublimeText" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="./IMG/Github.png" alt="GitHub" height="50" /></a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="./IMG/Figma.png" alt="Figma" height="50" /></a>
-<a href="https://www.gimp.org" target="_blank"><img style="margin: 10px" src="./IMG/GIMP.png" alt="GIMP" height="50"></a>
-</div>
-
-</td>
-<td valign="top" width="10%">
-
-### Languages
-
-<div align="center">
-<p>Native:</p>
-<a href="https://es.wikipedia.org/wiki/México/" target="_blank"><img style="margin: 10px" src="./IMG/Mexico.png" alt="Mexico" height="50" /></a>
-<p>Learning:</p>
-<a href="https://en.wikipedia.org/wiki/United_States/" target="_blank"><img style="margin: 10px" src="./IMG/United-States.png" alt="UnitedStates" height="50" /></a>
-</div>
-
-</td>
-</tr>
+  <tr>
+    <td valign="top" width="30%">
+      <div align="center" style="margin: 30px">
+        <!-- Frontend Skills -->
+        <a href="https://www.w3schools.com/html/" target="_blank">
+          <img style="margin: 10px; max-height: 50px;" src="./IMG/HTML.png" alt="HTML" />
+        </a>
+        <a href="https://www.w3schools.com/css/" target="_blank">
+          <img style="margin: 10px; max-height: 50px;" src="./IMG/CSS.png" alt="CSS" />
+        </a>
+        <a href="https://www.w3schools.com/js/" target="_blank">
+          <img style="margin: 10px; max-height: 50px;" src="./IMG/JavaScript.png" alt="JavaScript" />
+        </a>
+        <a href="https://www.w3schools.com/bootstrap/" target="_blank">
+          <img style="margin: 10px; max-height: 50px;" src="./IMG/Bootstrap.png" alt="Bootstrap" />
+        </a>
+      </div>
+    </td>
+    <td valign="top" width="30%">
+      <div align="center" style="margin: 30px">
+        <!-- Backend Skills -->
+        <a href="https://www.w3schools.com/js/" target="_blank">
+          <img style="margin: 10px; max-height: 50px;" src="./IMG/JavaScript.png" alt="JavaScript" />
+        </a>
+        <a href="https://www.w3schools.com/python/" target="_blank">
+          <img style="margin: 10px; max-height: 50px;" src="./IMG/Python.png" alt="Python" />
+        </a>
+        <a href="https://git-scm.com/" target="_blank">
+          <img style="margin: 10px; max-height: 50px;" src="./IMG/Git.png" alt="Git" />
+        </a>
+        <a href="https://es.wikipedia.org/wiki/Bash" target="_blank">
+          <img style="margin: 10px; max-height: 50px;" src="./IMG/Bash.png" alt="Bash" />
+        </a>
+        <a href="https://learn.microsoft.com/en-us/windows/terminal/install" target="_blank">
+          <img style="margin: 10px; max-height: 50px;" src="./IMG/Terminal.png" alt="Terminal" />
+        </a>
+      </div>
+    </td>
+    <td valign="top" width="30%">
+      <div align="center" style="margin: 30px">
+        <!-- Tools -->
+        <a href="https://code.visualstudio.com/" target="_blank">
+          <img style="margin: 10px; max-height: 50px;" src="./IMG/VSC.png" alt="VisualStudio" />
+        </a>
+        <a href="https://www.sublimetext.com/" target="_blank">
+          <img style="margin: 10px; max-height: 50px;" src="./IMG/Sublime-Text.png" alt="SublimeText" />
+        </a>
+        <a href="https://github.com/" target="_blank">
+          <img style="margin: 10px; max-height: 50px;" src="./IMG/Github.png" alt="GitHub" />
+        </a>
+        <a href="https://www.figma.com/" target="_blank">
+          <img style="margin: 10px; max-height: 50px;" src="./IMG/Figma.png" alt="Figma" />
+        </a>
+        <a href="https://www.gimp.org" target="_blank">
+          <img style="margin: 10px; max-height: 50px;" src="./IMG/GIMP.png" alt="GIMP" />
+        </a>
+      </div>
+    </td>
+    <td valign="top" width="10%">
+      <div align="center">
+        <!-- Languages -->
+        <p>Native:</p>
+        <a href="https://es.wikipedia.org/wiki/México/" target="_blank">
+          <img style="margin: 10px; max-height: 50px;" src="./IMG/Mexico.png" alt="Mexico" />
+        </a>
+        <p>Learning:</p>
+        <a href="https://en.wikipedia.org/wiki/United_States/" target="_blank">
+          <img style="margin: 10px; max-height: 50px;" src="./IMG/United-States.png" alt="UnitedStates" />
+        </a>
+      </div>
+    </td>
+  </tr>
 </table>
 
 <br>
 
 <div>
-    <div>
+  <div>
     <!-- Poner link en esta imagen sobre mis juegos favoritos -->
-      <img src="./IMG/Games.jpeg" alt="Videogames" width="35%" align="right" style="margin: 10px">
-    </div>
-    <div style="text-align: left;" width="55%">
-      <p>I love video games and started playing them at the age of 3. Video games are a very entertaining hobby for me, especially when I play them with companions or friends. I enjoy exploring virtual worlds and immersing myself in great experiences.
-      I would like to give you a special recommendation if you play video games: Keep exploring and enjoying games, as there are always experiences waiting for you. No matter what genre you prefer, there will always be titles that challenge and inspire you to enjoy video games. My best recommendation is to play and enjoy, but avoid excessive gaming.<p>
-    </div>
+    <img src="./IMG/Games.jpeg" alt="Videogames" width="100%" style="margin: 10px; max-width: 35%;" />
+  </div>
+  <div style="text-align: left;" width="65%">
+    <p>
+      I love video games and started playing them at the age of 3. Video games are a very entertaining hobby for me, especially when I play them with companions or friends. I enjoy exploring virtual worlds and immersing myself in great experiences. I would like to give you a special recommendation if you play video games: Keep exploring and enjoying games, as there are always experiences waiting for you. No matter what genre you prefer, there will always be titles that challenge and inspire you to enjoy video games. My best recommendation is to play and enjoy, but avoid excessive gaming.
+    </p>
+  </div>
 </div>
 
 <br>
 
 <div>
   <div>
-      <img src="./IMG/Laptop.png" alt="Optimizations" width="35%" align="right" style="margin: 10px">
+    <img src="./IMG/Laptop.png" alt="Optimizations" width="100%" style="margin: 10px; max-width: 35%;" />
   </div>
-  <div style="text-align: left;" width="55%">
-    <p>I am an extremely curious person, and sometimes I learn things I didn't know before. This curiosity has led me to create something that I have dedicated time to, and it has allowed me to acquire knowledge about Operating Systems, especially Windows, as it is a highly compatible, easy to manage, and highly customizable operating system.One of the topics that caught my attention was how to optimize the system and slightly increase the power of the computer. This curiosity led me to create a folder dedicated to optimizing the Windows and MacOS systems.</p>
+  <div style="text-align: left;" width="65%">
+    <p>
+      I am an extremely curious person, and sometimes I learn things I didn't know before. This curiosity has led me to create something that I have dedicated time to, and it has allowed me to acquire knowledge about Operating Systems, especially Windows, as it is a highly compatible, easy to manage, and highly customizable operating system. One of the topics that caught my attention was how to optimize the system and slightly increase the power of the computer. This curiosity led me to create a folder dedicated to optimizing the Windows and MacOS systems.
+    </p>
   </div>
 </div>
 
@@ -107,10 +130,18 @@
 ## My Personal Links <img src="./IMG/ContactMe.gif" width="54px">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/daniel-alejandro-b62320273/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 20;"></a>
-  <a href="gfdanielz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin: 20;"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="WebSite" style="margin: 20;"></a>
-  <a href="https://www.youtube.com/@DaniBytes" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube style="margin: 20;"></a>
+  <a href="https://www.linkedin.com/in/daniel-alejandro-b62320273/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 20;" />
+  </a>
+  <a href="gfdanielz" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin: 20;" />
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="WebSite" style="margin: 20;" />
+  </a>
+  <a href="https://www.youtube.com/@DaniBytes" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" style="margin: 20;" />
+  </a>
 </div>
 
 <br>
@@ -126,8 +157,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="150" alt="Quote" />
 </div>
 
-<br>
-<br>
 
 ``` html
   <!DOCTYPE html>
