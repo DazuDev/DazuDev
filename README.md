@@ -89,12 +89,12 @@
 
 <br>
 
-<div>
-  <div align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="flex: 1; margin: 10px; max-width: 60%;">
     <!-- Poner link en esta imagen sobre mis juegos favoritos -->
-    <img src="./IMG/Games.jpeg" alt="Videogames" width="60%" />
+    <img src="./IMG/Games.jpeg" alt="Videogames" style="width: 100%;" />
   </div>
-  <div style="text-align: justify;">
+  <div style="flex: 1; text-align: justify; margin: 10px; max-width: 60%;">
     <p>
       I love video games and started playing them at the age of 3. Video games are a very entertaining hobby for me, especially when I play them with companions or friends. I enjoy exploring virtual worlds and immersing myself in great experiences. I would like to give you a special recommendation if you play video games: Keep exploring and enjoying games, as there are always experiences waiting for you. No matter what genre you prefer, there will always be titles that challenge and inspire you to enjoy video games. My best recommendation is to play and enjoy, but avoid excessive gaming.
     </p>
@@ -103,16 +103,17 @@
 
 <br>
 
-<div>
-  <div align="center">
-    <img src="./IMG/Laptop.png" alt="Optimizations" width="60%" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="flex: 1; margin: 10px; max-width: 60%;">
+    <img src="./IMG/Laptop.png" alt="Optimizations" style="width: 100%;" />
   </div>
-  <div style="text-align: justify;">
+  <div style="flex: 1; text-align: justify; margin: 10px; max-width: 60%;">
     <p>
       I am an extremely curious person, and sometimes I learn things I didn't know before. This curiosity has led me to create something that I have dedicated time to, and it has allowed me to acquire knowledge about Operating Systems, especially Windows, as it is a highly compatible, easy to manage, and highly customizable operating system. One of the topics that caught my attention was how to optimize the system and slightly increase the power of the computer. This curiosity led me to create a folder dedicated to optimizing the Windows and MacOS systems.
     </p>
   </div>
 </div>
+
 
 
 
