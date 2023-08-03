@@ -90,7 +90,7 @@
 <br>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="flex: 1; margin: 10px; max-width: 60%;">
+  <div style="flex: 1; margin: 10px; max-width: 60%;" align="center">
     <!-- Poner link en esta imagen sobre mis juegos favoritos -->
     <img src="./IMG/Games.jpeg" alt="Videogames" style="width: 50%;" />
   </div>
@@ -104,7 +104,7 @@
 <br>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="flex: 1; margin: 10px; max-width: 60%;">
+  <div style="flex: 1; margin: 10px; max-width: 60%;" align="center">
     <img src="./IMG/Laptop.png" alt="Optimizations" style="width: 50%;" />
   </div>
   <div style="flex: 1; text-align: justify; margin: 10px; max-width: 60%;">
