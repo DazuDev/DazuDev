@@ -154,6 +154,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="150" alt="Quote" />
 </div>
 
+<br>
 
 ``` html
   <!DOCTYPE html>
