@@ -57,9 +57,6 @@
         <a href="https://code.visualstudio.com/" target="_blank">
           <img style="margin: 10px; width: 30%;" src="./IMG/VSC.png" alt="VisualStudio" />
         </a>
-        <a href="https://www.sublimetext.com/" target="_blank">
-          <img style="margin: 10px; width: 30%;" src="./IMG/Sublime-Text.png" alt="SublimeText" />
-        </a>
         <a href="https://github.com/" target="_blank">
           <img style="margin: 10px; width: 30%;" src="./IMG/Github.png" alt="GitHub" />
         </a>
