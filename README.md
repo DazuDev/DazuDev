@@ -142,8 +142,8 @@
 
 <div align="center">
   <h3 align="center">👁️‍🗨️ Statistical registry</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielZ-Code&theme=radical&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielZ-Code&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DaniOS-Code&theme=radical&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniOS-Code&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages" />
 </div>
 
 <div align="center">
