@@ -133,7 +133,7 @@
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="WebSite" style="margin: 20;" />
   </a>
-  <a href="https://www.youtube.com/@DaniBytes" target="_blank">
+  <a href="https://www.youtube.com/@DaniOS-Code" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" style="margin: 20;" />
   </a>
 </div>
