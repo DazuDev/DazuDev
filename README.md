@@ -124,7 +124,7 @@
 ## My Personal Links <img src="./IMG/ContactMe.gif" width="54px">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/daniel-alejandro-b62320273/" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-zúñiga-b62320273/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 20;" />
   </a>
   <a href="gfdanielz" target="_blank">
