@@ -6,7 +6,7 @@
 
 - 📫 Email: <br> gestiondecuentas.dani@gmail.com
 - 🔭 I’m currently working on: <br> [Github](https://github.com/DanielZ-Code) <br> [Obsidian](https://obsidian.md)
-- 💀 My channel (Not Started): <br> [Youtube](https://www.youtube.com/channel/UCXeZ8CHvf5djyXF5tgo3aDg)
+- 💀 My channel (Not Started): <br> [Youtube](https://www.youtube.com/@DaniOS-Code)
 
 <br>
 
