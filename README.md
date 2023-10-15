@@ -153,6 +153,8 @@
 <br>
 
 ``` html
+  <!-- Copy and paste this code into an .html file and then open it on your local network :) -->
+
   <!DOCTYPE html>
   <html>
 
