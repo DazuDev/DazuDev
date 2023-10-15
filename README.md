@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="./IMG/Programmer.gif" align="center" style="max-width: 80%;" />
+  <img src="./IMG/Banner DaniOS-Code.png" align="center" style="max-width: 80%;" />
 </div>
 
 # <div align="center">Hi, I'm Daniel <img src="./IMG/wave.gif" width="35px">😁</div>
 
-- 📫 Email: <br> gestiondecuentas.dani@gmail.com
 - 🔭 I’m currently working on: <br> [Github](https://github.com/DanielZ-Code) <br> [Obsidian](https://obsidian.md)
 - 💀 My channel (Not Started): <br> [Youtube](https://www.youtube.com/@DaniOS-Code)
 
