@@ -114,7 +114,7 @@
 
 >### Where to download my optimizer to improve my computer's performance:
 
-* First, you will have to go to GitHub and visit my repository [DanielZ-Optimizer](https://github.com/DanielZ-Code/DanielZ-Optimizer)
+* First, you will have to go to GitHub and visit my repository [DanielZ-Optimizer](https://github.com/DanielZ-Code/DanielZ-Optimizer) (Temporarily disabled)
     * Now you will have to download it in ZIP format.
     * Then you open the folder and explore what you want to optimize.
     * I tried to make the files more secure and avoid making significant changes to the Registry on your computer, but it was challenging since Windows Defender may detect it as a threat, unfortunately. However, I will try to find a solution to this problem.
