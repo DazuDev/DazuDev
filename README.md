@@ -4,7 +4,7 @@
 
 # <div align="center">Hi, I'm Daniel <img src="./IMG/wave.gif" width="35px">😁</div>
 
-- 🔭 I’m currently working on: <br> [Github](https://github.com/DanielZ-Code) <br> [Obsidian](https://obsidian.md)
+- 🔭 I’m currently working on: <br> [Github](https://github.com/DanielZ-Code) <br> [Obsidian](https://github.com/DaniOS-Code/Obsidian_Knowledge)
 - 💀 My channel (Not Started): <br> [Youtube](https://www.youtube.com/@DaniOS-Code)
 
 <br>
