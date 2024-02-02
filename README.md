@@ -2,7 +2,7 @@
   <img src="./IMG/Programmer.gif" align="center" style="max-width: 80%;" />
 </div>
 
-# <div align="center">Hi, I'm Daniel <img src="./IMG/wave.gif" width="35px">😁</div>
+# <div align="center">Hi, I'm Daniel <img src="./IMG/wave.gif" width="35px">😁 [Temporaly OFFLINE]</div>
 
 - 📫 Email: <br> gestiondecuentas.dani@gmail.com
 - 🔭 I’m currently working on: <br> [Github](https://github.com/DaniOS-Code) <br> [Obsidian](https://obsidian.md)
