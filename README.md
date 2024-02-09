@@ -26,9 +26,6 @@
         <a href="https://www.w3schools.com/js/" target="_blank">
           <img style="margin: 10px; width: 30%;" src="./IMG/JavaScript.png" alt="JavaScript" />
         </a>
-        <a href="https://www.w3schools.com/bootstrap/" target="_blank">
-          <img style="margin: 10px; width: 30%;" src="./IMG/Bootstrap.png" alt="Bootstrap" />
-        </a>
       </div>
     </td>
     <td valign="top" width="30%">
