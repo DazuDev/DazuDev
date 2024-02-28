@@ -2,6 +2,8 @@
   <img src="./IMG/Programmer.gif" align="center" style="max-width: 80%;" />
 </div>
 
+![Metrics](https://github.com/lowlighter/metrics/blob/master/source/templates/terminal)
+
 # <div align="center">Hi, I'm Daniel <img src="./IMG/wave.gif" width="35px">😁 [**Temporarily OFFLINE**]</div>
 
 - 📫 Email: <br> gestiondecuentas.dani@gmail.com
