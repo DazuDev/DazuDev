@@ -1,0 +1,7 @@
+name: DaniOS-Code
+uses: lowlighter/metrics@latest
+with:
+  template: terminal
+  filename: metrics.terminal.svg
+  token: ${{ secrets.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 }}
+  base: header, metadata
