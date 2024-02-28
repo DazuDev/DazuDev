@@ -1,5 +1,5 @@
 name: DaniOS-Code
-uses: lowlighter/metrics@latest
+uses: lowlighter/metrics@latest 
 with:
   template: terminal
   filename: metrics.terminal.svg
