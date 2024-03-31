@@ -57,4 +57,6 @@
 </div>
 
 # <div align="center"><p>My others repositories</p></div>
-<sub>(comming soon..)</sub>
+
+> [!NOTE]
+> Comming soon..
