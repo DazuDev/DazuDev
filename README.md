@@ -16,10 +16,10 @@
 
 ### Frontend
 <div style="display: flex;">
-  <a href="https://en.wikipedia.org/wiki/HTML" style="margin: 0 10px" target="_blank"><img src="./IMG/Html.png" width="50px"></a>
-  <a href="https://en.wikipedia.org/wiki/CSS" style="margin: 0 10px" target="_blank"><img src="./IMG/Css.png" width ="50px"></a>
-  <a href="https://en.wikipedia.org/wiki/JavaScript" style="margin: 0 10px" target="_blank"><img src="./IMG/Javascript.png" width ="50px"></a>
-  <a href="https://react.dev/" style="margin: 0 10px" target="_blank"><img src="./IMG/React.png" width ="50px"></a>
+  <a href="https://en.wikipedia.org/wiki/HTML" style="margin: 0 5px" target="_blank"><img src="./IMG/Html.png" width="50px"></a>
+  <a href="https://en.wikipedia.org/wiki/CSS" style="margin: 0 5px" target="_blank"><img src="./IMG/Css.png" width ="50px"></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript" style="margin: 0 5px" target="_blank"><img src="./IMG/Javascript.png" width ="50px"></a>
+  <a href="https://react.dev/" style="margin: 0 5px" target="_blank"><img src="./IMG/React.png" width ="50px"></a>
 </div>
 
 ### Backend
