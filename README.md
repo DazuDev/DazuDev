@@ -5,7 +5,7 @@
 # <div align="center"><p>Contact</p></div>
 <div style="display: flex; margin: 20px 0">
   <div><a href="mailto:dazu.dev@gmail.com?subject=Subject&body=The message."><img src="./IMG/Gmail.png" width="50px"></a></div>
-  <div><p style="margin: 14 auto; padding: 0 10px"><mailto>dazu.dev@gmail.com</mailto></p></div>
+  <div><p style="margin: 14 auto; padding: 0 10px">dazu.dev@gmail.com</p></div>
 </div>
 <div style="display: flex; margin: 20px 0">
   <div><a href="https://www.linkedin.com/in/dazu/"><img src="./IMG/LinkedIn.png" width="50px"></a></div>
