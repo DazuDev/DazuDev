@@ -37,7 +37,6 @@
 <a href="" style="margin: 0 5px"><img src="./IMG/Powershell.png" width="50px"></a>
 <a href="" style="margin: 0 5px"><img src="./IMG/Bash.png" width="50px"></a>
 <a href="" style="margin: 0 5px"><img src="./IMG/Docker.png" width="50px"></a>
-<a href="" style="margin: 0 5px"><img src="" width="50px"></a>
 
 <br>
 
