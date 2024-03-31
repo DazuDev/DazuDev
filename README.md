@@ -38,10 +38,6 @@
 
 # <div align="center"><p>I currently work on</p></div>
 <div style="display: flex; margin: 20px 0">
-  <div><a href="https://code.visualstudio.com/"><img src="./IMG/Visual-studio-code.png" width="50px"></a></div>
-  <div><p style="margin: 14 auto; padding: 0 10px">Visual Studio Code</p></div>
-</div>
-<div style="display: flex; margin: 20px 0">
   <div><a href="https://github.com/"><img src="./IMG/Github.png" width="50px"></a></div>
   <div><p style="margin: 14 auto; padding: 0 10px">GitHub</p></div>
 </div>
