@@ -12,8 +12,6 @@
   <div><p style="margin: 14 auto; padding: 0 10px">Daniel Zúñiga</p></div>
 </div>
 
-<br>
-
 # <div align="center"><p>My skill set</p></div>
 
 ### Frontend
@@ -38,8 +36,6 @@
 <a href="" style="margin: 0 5px"><img src="./IMG/Bash.png" width="50px"></a>
 <a href="" style="margin: 0 5px"><img src="./IMG/Docker.png" width="50px"></a>
 
-<br>
-
 # <div align="center"><p>I currently work on</p></div>
 <div style="display: flex; margin: 20px 0">
   <div><a href=""><img src="./IMG/Visual-studio-code.png" width="50px"></a></div>
@@ -61,8 +57,6 @@
   <div><a href=""><img src="./IMG/Figma.png" width="50px"></a></div>
   <div><p style="margin: 14 auto; padding: 0 10px">Figma</p></div>
 </div>
-
-<br>
 
 # <div align="center"><p>My others repositories</p></div>
 <sub>(comming soon..)</sub>
