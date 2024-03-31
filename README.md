@@ -4,7 +4,7 @@
 
 # <div align="center"><p>Contact</p></div>
 <div style="display: flex; margin: 20px 0">
-  <div><a href="mailto:dazu.dev@gmail.com?subject=Subject&body=The message."><img src="./IMG/Gmail.png" width="50px" target="_blank"></a></div>
+  <div><a href="mailto:dazu.dev@gmail.com?subject=Subject&body=The message." target="_blank"><img src="./IMG/Gmail.png" width="50px" target="_blank"></a></div>
   <div><p style="margin: 14 auto; padding: 0 10px">dazu.dev@gmail.com</p></div>
 </div>
 <div style="display: flex; margin: 20px 0">
