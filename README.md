@@ -8,7 +8,7 @@
   <div><p style="margin: 14 auto; padding: 0 10px">dazu.dev@gmail.com</p></div>
 </div>
 <div style="display: flex; margin: 20px 0">
-  <div><a href="https://www.linkedin.com/in/dazu/"><img src="./IMG/LinkedIn.png" width="50px"></a></div>
+  <div><a href="https://www.linkedin.com/in/dazu/" target="_blank"><img src="./IMG/LinkedIn.png" width="50px"></a></div>
   <div><p style="margin: 14 auto; padding: 0 10px">Daniel Zúñiga</p></div>
 </div>
 
