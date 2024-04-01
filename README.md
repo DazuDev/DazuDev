@@ -4,14 +4,16 @@
 
 # <div align="center"><p>Contact</p></div>
 
-<div>
-  <div><a href="mailto:dazu.dev@gmail.com?subject=Subject&body=The message." target="_blank"><img src="./IMG/Gmail.png" width="50px" target="_blank"></a></div>
-  <div><p>dazu.dev@gmail.com</p></div>
-</div>
-<div>
-  <div><a href="https://www.linkedin.com/in/dazu/" target="_blank"><img src="./IMG/LinkedIn.png" width="50px"></a></div>
-  <div><p>Daniel Zúñiga</p></div>
-</div>
+<table align="center">
+  <tr>
+    <th><a href="https://mail.google.com/" target="_blank"><img src="./IMG/Gmail.png" width="50px"></a></th>
+    <th><a href="mailto:dazu.dev@gmail.com?subject=Subject&body=The message.">dazu.dev@gmail.com</a></th>
+  </tr>
+  <tr>
+    <th><a href="https://www.linkedin.com/in/dazu/" target="_blank"><img src="./IMG/LinkedIn.png" width="50px"></a></th>
+    <th><p>LinkedIn</p></th>
+  </tr>
+</table>
 
 # <div align="center"><p>My skill set</p></div>
 
@@ -41,24 +43,24 @@
 
 # <div align="center"><p>I currently work on</p></div>
 
-<div style="text-align: center;">
-  <div style="display: inline-block; margin: 0 20px;">
-    <a href="https://github.com/" target="_blank"><img src="./IMG/Github.png" width="50px"></a>
-    <p>GitHub</p>
-  </div>
-  <div style="display: inline-block; margin: 0 20px;">
-    <a href="https://obsidian.md/" target="_blank"><img src="./IMG/Obsidian.png" width="50px"></a>
-    <p>Obsidian</p>
-  </div>
-  <div style="display: inline-block; margin: 0 20px;">
-    <a href="https://www.notion.so/" target="_blank"><img src="./IMG/Notion.png" width="50px"></a>
-    <p>Notion</p>
-  </div>
-  <div style="display: inline-block; margin: 0 20px;">
-    <a href="https://www.figma.com/" target="_blank"><img src="./IMG/Figma.png" width="50px"></a>
-    <p>Figma</p>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <th><a href="https://github.com/" target="_blank"><img src="./IMG/Github.png" width="50px"></a></th>
+    <th><p>GitHub</p></th>
+  </tr>
+  <tr>
+    <th><a href="https://obsidian.md/" target="_blank"><img src="./IMG/Obsidian.png" width="50px"></a></th>
+    <th><p>Obsidian</p></th>
+  </tr>
+  <tr>
+    <th><a href="https://www.notion.so/" target="_blank"><img src="./IMG/Notion.png" width="50px"></a></th>
+    <th><p>Notion</p></th>
+  </tr>
+  <tr>
+    <th><a href="https://www.figma.com/" target="_blank"><img src="./IMG/Figma.png" width="50px"></a></th>
+    <th><p>Figma</p></th>
+  </tr>
+</table>
 
 # <div align="center"><p>My others repositories</p></div>
 
