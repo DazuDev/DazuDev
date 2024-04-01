@@ -41,7 +41,7 @@
 
 # <div align="center"><p>I currently work on</p></div>
 
-<div style="display: flex; place-content: center;" align="center">
+<div style="place-content: center;" align="center">
   <div>
     <div><a href="https://github.com/" target="_blank"><img src="./IMG/Github.png" width="50px" style="margin: auto 20px;"></a></div>
     <div><p>GitHub</p></div>
