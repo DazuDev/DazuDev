@@ -7,7 +7,7 @@
 <table align="center">
   <tr>
     <th><a href="https://mail.google.com/" target="_blank"><img src="./IMG/Gmail.png" width="50px"></a></th>
-    <th><a href="mailto:dazu.dev@gmail.com?subject=Subject&body=The message.">dazu.dev@gmail.com</a></th>
+    <th><a href="mailto:dazu.dev@gmail.com">dazu.dev@gmail.com</a></th>
   </tr>
   <tr>
     <th><a href="https://www.linkedin.com/in/dazu/" target="_blank"><img src="./IMG/LinkedIn.png" width="50px"></a></th>
