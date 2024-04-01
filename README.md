@@ -42,23 +42,22 @@
 <a href="https://www.docker.com/" style="margin: 0 5px" target="_blank"><img src="./IMG/Docker.png" width="50px"></a>
 
 # <div align="center"><p>I currently work on</p></div>
-
 <table align="center">
   <tr>
     <th><a href="https://github.com/" target="_blank"><img src="./IMG/Github.png" width="50px"></a></th>
-    <th><p style="margin: 0;">GitHub</p></th>
+    <th>GitHub</th>
   </tr>
   <tr>
     <th><a href="https://obsidian.md/" target="_blank"><img src="./IMG/Obsidian.png" width="50px"></a></th>
-    <th><p style="margin: 0;">Obsidian</p></th>
+    <th>Obsidian</th>
   </tr>
   <tr>
     <th><a href="https://www.notion.so/" target="_blank"><img src="./IMG/Notion.png" width="50px"></a></th>
-    <th><p style="margin: 0;">Notion</p></th>
+    <th>Notion</th>
   </tr>
   <tr>
     <th><a href="https://www.figma.com/" target="_blank"><img src="./IMG/Figma.png" width="50px"></a></th>
-    <th><p style="margin: 0;">Figma</p></th>
+    <th>Figma</th>
   </tr>
 </table>
 
