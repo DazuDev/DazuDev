@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <th><a href="https://www.linkedin.com/in/dazu/" target="_blank"><img src="./IMG/LinkedIn.png" width="50px"></a></th>
-    <th><p>LinkedIn</p></th>
+    <th><a href="https://www.linkedin.com/in/dazu/">Daniel Zúñiga <sub>(Dazu)</sub></a></th>
   </tr>
 </table>
 
