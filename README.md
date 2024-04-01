@@ -19,13 +19,11 @@
   <a href="https://en.wikipedia.org/wiki/HTML" style="margin: 0 5px" target="_blank"><img src="./IMG/Html.png" width="50px"></a>
   <a href="https://en.wikipedia.org/wiki/CSS" style="margin: 0 5px" target="_blank"><img src="./IMG/Css.png" width ="50px"></a>
   <a href="https://en.wikipedia.org/wiki/JavaScript" style="margin: 0 5px" target="_blank"><img src="./IMG/Javascript.png" width ="50px"></a>
-  <a href="https://react.dev/" style="margin: 0 5px" target="_blank"><img src="./IMG/React.png" width ="50px"></a>
 </div>
 
 ### Backend
 <a href="https://en.wikipedia.org/wiki/JavaScript" style="margin: 0 5px" target="_blank"><img src="./IMG/Javascript.png" width="50px"></a>
 <a href="https://www.python.org/" style="margin: 0 5px" target="_blank"><img src="./IMG/Python.png" width="50px"></a>
-<a href="https://nodejs.org/" style="margin: 0 5px" target="_blank"><img src="./IMG/Nodejs.png" width="50px"></a>
 
 ### Database
 <a href="https://www.mysql.com/" style="margin: 0 5px"><img src="./IMG/Mysql.png" width="50px" target="_blank"></a>
