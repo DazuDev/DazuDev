@@ -41,22 +41,22 @@
 
 # <div align="center"><p>I currently work on</p></div>
 
-<div style="place-content: center;" align="center">
-  <div>
-    <div><a href="https://github.com/" target="_blank"><img src="./IMG/Github.png" width="50px" style="margin: auto 20px;"></a></div>
-    <div><p>GitHub</p></div>
+<div style="text-align: center;">
+  <div style="display: inline-block; margin: 0 20px;">
+    <a href="https://github.com/" target="_blank"><img src="./IMG/Github.png" width="50px"></a>
+    <p>GitHub</p>
   </div>
-  <div>
-    <div><a href="https://obsidian.md/" target="_blank"><img src="./IMG/Obsidian.png" width="50px" style="margin: auto 20px;"></a></div>
-    <div><p>Obsidian</p></div>
+  <div style="display: inline-block; margin: 0 20px;">
+    <a href="https://obsidian.md/" target="_blank"><img src="./IMG/Obsidian.png" width="50px"></a>
+    <p>Obsidian</p>
   </div>
-  <div>
-    <div><a href="https://www.notion.so/" target="_blank"><img src="./IMG/Notion.png" width="50px" style="margin: auto 20px;"></a></div>
-    <div><p>Notion</p></div>
+  <div style="display: inline-block; margin: 0 20px;">
+    <a href="https://www.notion.so/" target="_blank"><img src="./IMG/Notion.png" width="50px"></a>
+    <p>Notion</p>
   </div>
-  <div>
-    <div><a href="https://www.figma.com/" target="_blank"><img src="./IMG/Figma.png" width="50px" style="margin: auto 20px;"></a></div>
-    <div><p>Figma</p></div>
+  <div style="display: inline-block; margin: 0 20px;">
+    <a href="https://www.figma.com/" target="_blank"><img src="./IMG/Figma.png" width="50px"></a>
+    <p>Figma</p>
   </div>
 </div>
 
