@@ -46,19 +46,19 @@
 <table align="center">
   <tr>
     <th><a href="https://github.com/" target="_blank"><img src="./IMG/Github.png" width="50px"></a></th>
-    <th><p>GitHub</p></th>
+    <th><p style="margin: 0;">GitHub</p></th>
   </tr>
   <tr>
     <th><a href="https://obsidian.md/" target="_blank"><img src="./IMG/Obsidian.png" width="50px"></a></th>
-    <th><p>Obsidian</p></th>
+    <th><p style="margin: 0;">Obsidian</p></th>
   </tr>
   <tr>
     <th><a href="https://www.notion.so/" target="_blank"><img src="./IMG/Notion.png" width="50px"></a></th>
-    <th><p>Notion</p></th>
+    <th><p style="margin: 0;">Notion</p></th>
   </tr>
   <tr>
     <th><a href="https://www.figma.com/" target="_blank"><img src="./IMG/Figma.png" width="50px"></a></th>
-    <th><p>Figma</p></th>
+    <th><p style="margin: 0;">Figma</p></th>
   </tr>
 </table>
 
