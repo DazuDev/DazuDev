@@ -50,7 +50,7 @@
 
 <table align="center">
   <tr>
-    <th><a href="#" target="_blank"><img src="./IMG/Visual-studio-code.png" width="50px"></a></th>
+    <th><a href="https://code.visualstudio.com/" target="_blank"><img src="./IMG/Visual-studio-code.png" width="50px"></a></th>
     <th>VSCode</th>
   </tr>
   <tr>
