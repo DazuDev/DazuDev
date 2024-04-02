@@ -8,18 +8,16 @@
 
 # <div align="center"><p>Contact</p></div>
 
-<div align="center">
-  <table align="center">
-    <tr>
-      <th><a href="https://mail.google.com/" target="_blank"><img src="./IMG/Gmail.png" width="50px"></a></th>
-      <th><a href="mailto:dazu.dev@gmail.com">dazu.dev@gmail.com</a></th>
-    </tr>
-    <tr>
-      <th><a href="https://www.linkedin.com/in/dazu/" target="_blank"><img src="./IMG/LinkedIn.png" width="50px"></a></th>
-      <th><a href="https://www.linkedin.com/in/dazu/">Daniel Zúñiga <sub>(Dazu)</sub></a></th>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <th><a href="https://mail.google.com/" target="_blank"><img src="./IMG/Gmail.png" width="50px"></a></th>
+    <th><a href="mailto:dazu.dev@gmail.com">dazu.dev@gmail.com</a></th>
+  </tr>
+  <tr>
+    <th><a href="https://www.linkedin.com/in/dazu/" target="_blank"><img src="./IMG/LinkedIn.png" width="50px"></a></th>
+    <th><a href="https://www.linkedin.com/in/dazu/">Daniel Zúñiga <sub>(Dazu)</sub></a></th>
+  </tr>
+</table>
 
 # <div align="center"><p>My skill set</p></div>
 
@@ -50,26 +48,25 @@
 <a href="#" target="_blank"><img src="./IMG/Markdown.png" width="60px" style="margin-right: 10px;"></a>
 
 # <div align="center"><p>I currently work on</p></div>
-<div align="center">
-  <table align="center">
-    <tr>
-      <th><a href="https://code.visualstudio.com/" target="_blank"><img src="./IMG/Visual-studio-code.png" width="50px"></a></th>
-      <th>VSCode</th>
-    </tr>
-    <tr>
-      <th><a href="https://obsidian.md/" target="_blank"><img src="./IMG/Obsidian.png" width="50px"></a></th>
-      <th>Obsidian</th>
-    </tr>
-    <tr>
-      <th><a href="https://www.notion.so/" target="_blank"><img src="./IMG/Notion.png" width="50px"></a></th>
-      <th>Notion</th>
-    </tr>
-    <tr>
-      <th><a href="https://www.figma.com/" target="_blank"><img src="./IMG/Figma.png" width="50px"></a></th>
-      <th>Figma</th>
-    </tr>
-  </table>
-</div>
+
+<table align="center">
+  <tr>
+    <th><a href="https://code.visualstudio.com/" target="_blank"><img src="./IMG/Visual-studio-code.png" width="50px"></a></th>
+    <th>VSCode</th>
+  </tr>
+  <tr>
+    <th><a href="https://obsidian.md/" target="_blank"><img src="./IMG/Obsidian.png" width="50px"></a></th>
+    <th>Obsidian</th>
+  </tr>
+  <tr>
+    <th><a href="https://www.notion.so/" target="_blank"><img src="./IMG/Notion.png" width="50px"></a></th>
+    <th>Notion</th>
+  </tr>
+  <tr>
+    <th><a href="https://www.figma.com/" target="_blank"><img src="./IMG/Figma.png" width="50px"></a></th>
+    <th>Figma</th>
+  </tr>
+</table>
 
 # <div align="center"><p>Operating Systems that I manage</p></div>
 
