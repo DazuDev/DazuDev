@@ -26,26 +26,26 @@
 ### Frontend
 
 <div style="display: flex;">
-  <a href="https://en.wikipedia.org/wiki/HTML" style="margin-right: 10px;" target="_blank"><img src="./IMG/Html.png" width="80px"></a>
-  <a href="https://en.wikipedia.org/wiki/CSS" style="margin-right: 10px;" target="_blank"><img src="./IMG/Css.png" width ="80px"></a>
-  <a href="https://en.wikipedia.org/wiki/JavaScript" style="margin-right: 10px;" target="_blank"><img src="./IMG/Javascript.png" width ="80px"></a>
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="./IMG/Html.png" width="80px" style="margin-right: 10px;"></a>
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="./IMG/Css.png" width ="80px" style="margin-right: 10px;"></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="./IMG/Javascript.png" width ="80px" style="margin-right: 10px;"></a>
 </div>
 
 ### Backend
 
-<a href="https://en.wikipedia.org/wiki/JavaScript" style="margin-right: 10px;" target="_blank"><img src="./IMG/Javascript.png" width="80px"></a>
-<a href="https://www.python.org/" style="margin-right: 10px;" target="_blank"><img src="./IMG/Python.png" width="80px"></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="./IMG/Javascript.png" width="80px" style="margin-right: 10px;"></a>
+<a href="https://www.python.org/" target="_blank"><img src="./IMG/Python.png" width="80px" style="margin-right: 10px;"></a>
 
 ### Database
 
-<a href="https://www.mysql.com/" style="margin-right: 10px;"><img src="./IMG/Mysql.png" width="80px" target="_blank"></a>
+<a href="https://www.mysql.com/"><img src="./IMG/Mysql.png" width="80px" target="_blank" style="margin-right: 10px;"></a>
 
 ### Other technologies
 
-<a href="https://git-scm.com/" style="margin-right: 10px;" target="_blank"><img src="./IMG/Git.png" width="80px"></a>
-<a href="https://en.wikipedia.org/wiki/PowerShell" style="margin-right: 10px;" target="_blank"><img src="./IMG/Powershell.png" width="80px"></a>
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" style="margin-right: 10px;" target="_blank"><img src="./IMG/Bash.png" width="80px"></a>
-<a href="https://www.docker.com/" style="margin-right: 10px;" target="_blank"><img src="./IMG/Docker.png" width="80px"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="./IMG/Git.png" width="80px" style="margin-right: 10px;"></a>
+<a href="https://en.wikipedia.org/wiki/PowerShell" target="_blank"><img src="./IMG/Powershell.png" width="80px" style="margin-right: 10px;"></a>
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"><img src="./IMG/Bash.png" width="80px" style="margin-right: 10px;"></a>
+<a href="https://www.docker.com/" target="_blank"><img src="./IMG/Docker.png" width="80px" style="margin-right: 10px;"></a>
 
 # <div align="center"><p>I currently work on</p></div>
 
