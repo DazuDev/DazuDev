@@ -47,7 +47,7 @@
 <a href="https://www.docker.com/" ><img src="./IMG/Docker.png" width="60px" style="margin-right: 10px;"></a>
 <a href="https://www.markdownguide.org/" ><img src="./IMG/Markdown.png" width="60px" style="margin-right: 10px;"></a>
 
-# <div align="center"><p>I currently work on</p></div>
+# <div align="center"><p>I currently working on</p></div>
 
 <table align="center">
   <tr>
