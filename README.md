@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=100&section=header"/>
 <!-- For the icons I used the website skillicons (https://skillicons.dev/) -->
 <img src="./IMG/Banner-mid-short.png" width="100%">
 <!-- I used this repo to animate the text (https://github.com/DenverCoder1/readme-typing-svg) -->
@@ -94,4 +94,4 @@
   </picture>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=200&section=footer"/>
