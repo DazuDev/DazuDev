@@ -71,11 +71,11 @@
 # <div align="center"><p>Operating Systems that I manage</p></div>
 
 <div align="center">
-  <a href="https://www.apple.com/" target="_blank"><img src="./IMG/Apple.png" width="80px" style="margin-right: 10px;"></a>
-  <a href="https://www.microsoft.com/" target="_blank"><img src="./IMG/Windows.png" width="80px" style="margin-right: 10px;"></a>
-  <a href="https://www.kali.org/" target="_blank"><img src="./IMG/KaliLinux.png" width="80px" style="margin-right: 10px;"></a>
-  <a href="https://ubuntu.com/" target="_blank"><img src="./IMG/Ubuntu.png" width="80px" style="margin-right: 10px;"></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="./IMG/Linux.png" width="80px" style="margin-right: 10px;"></a>
+  <a href="https://www.apple.com/" target="_blank"><img src="./IMG/Apple.png" width="100px" style="margin-right: 10px;"></a>
+  <a href="https://www.microsoft.com/" target="_blank"><img src="./IMG/Windows.png" width="100px" style="margin-right: 10px;"></a>
+  <a href="https://www.kali.org/" target="_blank"><img src="./IMG/KaliLinux.png" width="100px" style="margin-right: 10px;"></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="./IMG/Ubuntu.png" width="100px" style="margin-right: 10px;"></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="./IMG/Linux.png" width="100px" style="margin-right: 10px;"></a>
 </div>
 
 # <div align="center"><p>My others repositories</p></div>
