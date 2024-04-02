@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-<div align="center" style="place-content: center; display: flex; align-items: center;">
+<div align="center" style="place-content: center; display: flex; align-items: center; text-align: center;">
   <div>
   <img align="left" src="./IMG/Gmail.png" width="40px" />
   </div>
