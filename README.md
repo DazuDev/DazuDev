@@ -19,6 +19,15 @@
   </tr>
 </table>
 
+<div align="center" style="place-content: center; display: flex; align-items: center;">
+  <div>
+  <img align="left" src="./IMG/Gmail.png" width="40px" />
+  </div>
+  <div>
+  <a href="mailto:dazu.dev@gmail.com">dazu.dev@gmail.com</a>
+  </div>
+</div>
+
 # <div align="center"><p>My skill set</p></div>
 
 ### Frontend
