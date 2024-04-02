@@ -51,8 +51,8 @@
 
 <table align="center">
   <tr>
-    <th><a href="https://github.com/" target="_blank"><img src="./IMG/Github.png" width="50px"></a></th>
-    <th>GitHub</th>
+    <th><a href="#" target="_blank"><img src="./IMG/Visual-studio-code.png" width="50px"></a></th>
+    <th>VSCode</th>
   </tr>
   <tr>
     <th><a href="https://obsidian.md/" target="_blank"><img src="./IMG/Obsidian.png" width="50px"></a></th>
@@ -75,7 +75,7 @@
 
 <div align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=DazuDev&show_icons=true&theme=transparent" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api?username=DazuDev&show_icons=true&theme=transparent&rank_icon=github&border_color=7600bc&title_color=7600bc&text_color=FFFFFF&icon_color=7600bc" media="(prefers-color-scheme: dark)">
     <img src="https://github-readme-stats.vercel.app/api?username=DazuDev&show_icons=true">
   </picture>
 </div>
