@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=120&section=header"/>
 <!-- For the icons I used the website skillicons (https://skillicons.dev/) -->
 <img src="./IMG/Banner-mid-short.png" width="100%">
 <!-- I used this repo to animate the text (https://github.com/DenverCoder1/readme-typing-svg) -->
@@ -42,7 +43,9 @@
 <a href="https://git-scm.com/" target="_blank"><img src="./IMG/Git.png" width="60px" style="margin-right: 10px;"></a>
 <a href="https://en.wikipedia.org/wiki/PowerShell" target="_blank"><img src="./IMG/Powershell.png" width="60px" style="margin-right: 10px;"></a>
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"><img src="./IMG/Bash.png" width="60px" style="margin-right: 10px;"></a>
+<a href="#" target="_blank"><img src="./IMG/Rust.png" width="60px" style="margin-right: 10px;"></a>
 <a href="https://www.docker.com/" target="_blank"><img src="./IMG/Docker.png" width="60px" style="margin-right: 10px;"></a>
+<a href="#" target="_blank"><img src="./IMG/Markdown.png" width="60px" style="margin-right: 10px;"></a>
 
 # <div align="center"><p>I currently work on</p></div>
 
@@ -65,6 +68,16 @@
   </tr>
 </table>
 
+# <div align="center"><p>Operating Systems that I manage</p></div>
+
+<div align="center">
+  <a href="#" target="_blank"><img src="./IMG/Apple.png" width="60px" style="margin-right: 10px;"></a>
+  <a href="#" target="_blank"><img src="./IMG/Windows.png" width="60px" style="margin-right: 10px;"></a>
+  <a href="#" target="_blank"><img src="./IMG/KaliLinux.png" width="60px" style="margin-right: 10px;"></a>
+  <a href="#" target="_blank"><img src="./IMG/Ubuntu.png" width="60px" style="margin-right: 10px;"></a>
+  <a href="#" target="_blank"><img src="./IMG/Linux.png" width="60px" style="margin-right: 10px;"></a>
+</div>
+
 # <div align="center"><p>My others repositories</p></div>
 
 > [!NOTE]
@@ -80,3 +93,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=DazuDev&show_icons=true">
   </picture>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=120&section=footer"/>
