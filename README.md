@@ -11,11 +11,11 @@
 <table align="center">
   <tr>
     <th><a href="https://mail.google.com/"><img src="./IMG/Gmail.png" width="50px"></a></th>
-    <th><a href="mailto:dazu.dev@gmail.com">dazu.dev@gmail.com</a></th>
+    <th><a href="mailto:dazu.dev@gmail.com" style="font-size: 25px;">dazu.dev@gmail.com</a></th>
   </tr>
   <tr>
     <th><a href="https://www.linkedin.com/in/dazu/"><img src="./IMG/LinkedIn.png" width="50px"></a></th>
-    <th><a href="https://www.linkedin.com/in/dazu/">Daniel Zúñiga <sub>(Dazu)</sub></a></th>
+    <th><a href="https://www.linkedin.com/in/dazu/" style="font-size: 25px;">Daniel Zúñiga <sub>(Dazu)</sub></a></th>
   </tr>
 </table>
 
