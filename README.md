@@ -1,5 +1,3 @@
-<!-- My tamplate in figma: https://www.figma.com/file/GCNoOaNF0pVq9Jdm3Jtexn/GitHub?type=design&node-id=0%3A1&mode=design&t=XEwouYNtVTvPhO21-1 -->
-
 <!-- For the icons I used the website skillicons (https://skillicons.dev/) -->
 
 <img src="./IMG/Banner-mid-short.png" width="100%">
