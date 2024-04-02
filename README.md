@@ -1,6 +1,12 @@
 <!-- My tamplate in figma: https://www.figma.com/file/GCNoOaNF0pVq9Jdm3Jtexn/GitHub?type=design&node-id=0%3A1&mode=design&t=XEwouYNtVTvPhO21-1 -->
 
+<!-- I used icons from the skillicons website (https://skillicons.dev/) -->
+
 <img src="./IMG/Banner-mid-short.png" width="100%">
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=2000&pause=1000&color=F7F7F7&background=FFB2E500&center=true&vCenter=true&repeat=false&random=false&width=250&height=40&lines=Hi%2C+I'm+Daniel+Z%C3%BA%C3%B1iga" alt="Typing SVG" style="padding: 50px"/></a>
+</div>
 
 # <div align="center"><p>Contact</p></div>
 
