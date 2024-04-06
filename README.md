@@ -50,24 +50,12 @@
 
 # <div align="center"><p>I currently working on</p></div>
 
-<table align="center">
-  <tr>
-    <th><a href="https://code.visualstudio.com/"><img src="./IMG/Visual-studio-code.png" width="50px"></a></th>
-    <th>VSCode</th>
-  </tr>
-  <tr>
-    <th><a href="https://obsidian.md/"><img src="./IMG/Obsidian.png" width="50px"></a></th>
-    <th>Obsidian</th>
-  </tr>
-  <tr>
-    <th><a href="https://www.notion.so/"><img src="./IMG/Notion.png" width="50px"></a></th>
-    <th>Notion</th>
-  </tr>
-  <tr>
-    <th><a href="https://www.figma.com/"><img src="./IMG/Figma.png" width="50px"></a></th>
-    <th>Figma</th>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://code.visualstudio.com/"><img src="./IMG/VSC.png" width="70px"></a>
+  <a href="https://obsidian.md/"><img src="./IMG/Obsidian.png" width="70px"></a>
+  <a href="https://www.notion.so/"><img src="./IMG/Notion.png" width="70px"></a>
+  <a href="https://www.figma.com/"><img src="./IMG/Figma.png" width="70px"></a>
+</div>
 
 # <div align="center"><p>Operating Systems that I manage</p></div>
 
