@@ -1,12 +1,23 @@
-<!-- (https://capsule-render.vercel.app/) -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=80&section=header"/>
 <!-- For the icons I used the website skillicons (https://skillicons.dev/) -->
-<img src="./IMG/Banner-mid-short.png" width="100%">
-<!-- I used this repo to animate the text (https://github.com/DenverCoder1/readme-typing-svg) -->
+
+<!-- (https://capsule-render.vercel.app/) -->
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=50&duration=2000&pause=1000&color=F7F7F7&background=FFB2E500&center=true&vCenter=true&repeat=false&random=false&width=600&height=100&lines=Hi%2C+I'm+Daniel+Z%C3%BA%C3%B1iga;Also+known+as+Dazu;Daniel+Z%C3%BA%C3%B1iga+(Dazu)" alt="Typing SVG" style="padding: 50px"/></a>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=80&section=header"/>
 </div>
 
+<!-- Banner -->
+<div align="center">
+  <img src="./IMG/Banner-mid-short.png" width="100%">
+</div>
+
+<!-- Typing Animation - I used this repo to animate the text (https://github.com/DenverCoder1/readme-typing-svg) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=50&duration=2000&pause=1000&color=F7F7F7&background=FFB2E500&center=true&vCenter=true&repeat=false&random=false&width=600&height=100&lines=Hi%2C+I'm+Daniel+Z%C3%BA%C3%B1iga;Also+known+as+Dazu;Daniel+Z%C3%BA%C3%B1iga+(Dazu)" alt="Typing SVG" style="padding: 50px"/>
+  </a>
+</div>
+
+<!-- Contact Section -->
 # <div align="center"><p>Contact</p></div>
 
 <table align="center">
@@ -20,7 +31,8 @@
   </tr>
 </table>
 
-# <div align="center"><p>My skill set</p></div>
+<!-- Skill Set Section -->
+# <div align="center"><p>My Skill Set</p></div>
 
 ### Frontend
 
@@ -39,16 +51,19 @@
 
 <a href="https://www.mysql.com/"><img src="./IMG/Mysql.png" width="60px"  ></a>
 
-### Other technologies
+### Other Technologies
 
-<a href="https://git-scm.com/"><img src="./IMG/Git.png" width="60px" ></a>
-<a href="https://en.wikipedia.org/wiki/PowerShell"><img src="./IMG/Powershell.png" width="60px" ></a>
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="./IMG/Bash.png" width="60px" ></a>
-<a href="https://www.rust-lang.org/"><img src="./IMG/Rust.png" width="60px" ></a>
-<a href="https://www.docker.com/" ><img src="./IMG/Docker.png" width="60px" ></a>
-<a href="https://www.markdownguide.org/" ><img src="./IMG/Markdown.png" width="60px" ></a>
+<div style="display: flex;">
+  <a href="https://git-scm.com/"><img src="./IMG/Git.png" width="60px" ></a>
+  <a href="https://en.wikipedia.org/wiki/PowerShell"><img src="./IMG/Powershell.png" width="60px" ></a>
+  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="./IMG/Bash.png" width="60px" ></a>
+  <a href="https://www.rust-lang.org/"><img src="./IMG/Rust.png" width="60px" ></a>
+  <a href="https://www.docker.com/" ><img src="./IMG/Docker.png" width="60px" ></a>
+  <a href="https://www.markdownguide.org/" ><img src="./IMG/Markdown.png" width="60px" ></a>
+</div>
 
-# <div align="center"><p>I currently working on</p></div>
+<!-- Currently Working On Section -->
+# <div align="center"><p>I'm Currently Working On</p></div>
 
 <div align="center">
   <a href="https://code.visualstudio.com/"><img src="./IMG/VSC.png" width="60px"></a>
@@ -57,7 +72,8 @@
   <a href="https://www.figma.com/"><img src="./IMG/Figma.png" width="60px"></a>
 </div>
 
-# <div align="center"><p>Operating Systems that I manage</p></div>
+<!-- Operating Systems Section -->
+# <div align="center"><p>Operating Systems I Manage</p></div>
 
 <div align="center">
   <a href="https://www.apple.com/"><img src="./IMG/Apple.png" width="100px" ></a>
@@ -67,20 +83,21 @@
   <a href="https://www.linux.org/"><img src="./IMG/Linux.png" width="100px" ></a>
 </div>
 
-# <div align="center"><p>My others repositories</p></div>
+<!-- Repositories Section -->
+# <div align="center"><p>My Other Repositories</p></div>
 
 > [!NOTE]
-> Comming soon..
+> Coming Soon...
 
-<br>
-<br>
-<br>
-<!-- GitHub Stats: (https://github.com/anuraghazra/github-readme-stats) -->
+<!-- GitHub Stats Section - (https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=DazuDev&show_icons=true&theme=transparent&rank_icon=github&border_color=5b38ac&title_color=5b38ac&text_color=FFFFFF&icon_color=5b38ac" media="(prefers-color-scheme: dark)">
     <img src="https://github-readme-stats.vercel.app/api?username=DazuDev&show_icons=true">
   </picture>
 </div>
-<!-- (https://capsule-render.vercel.app/) -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=200&section=footer"/>
+
+<!-- Footer - (https://capsule-render.vercel.app/) -->
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=200&section=footer"/>
+</div>
