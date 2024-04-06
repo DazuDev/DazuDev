@@ -37,16 +37,16 @@
 ### Frontend
 
 <div style="display: flex;">
-  <a href="https://en.wikipedia.org/wiki/HTML" style="margin-right: 10px;"><img src="./IMG/Html.png" width="60px"></a>
-  <a href="https://en.wikipedia.org/wiki/CSS" style="margin-right: 10px;"><img src="./IMG/Css.png" width="60px"></a>
+  <a href="https://en.wikipedia.org/wiki/HTML"><img src="./IMG/Html.png" width="60px"></a>
+  <a href="https://en.wikipedia.org/wiki/CSS"><img src="./IMG/Css.png" width="60px"></a>
   <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./IMG/Javascript.png" width="60px"></a>
 </div>
 
 ### Backend
 
 <div style="display: flex;">
-  <a href="https://en.wikipedia.org/wiki/JavaScript" style="margin-right: 10px;"><img src="./IMG/Javascript.png" width="60px"></a>
-  <a href="https://www.python.org/" style="margin-right: 10px;"><img src="./IMG/Python.png" width="60px"></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./IMG/Javascript.png" width="60px"></a>
+  <a href="https://www.python.org/"><img src="./IMG/Python.png" width="60px"></a>
 </div>
 
 ### Database
@@ -58,11 +58,11 @@
 ### Other Technologies
 
 <div style="display: flex;">
-  <a href="https://git-scm.com/" style="margin-right: 10px;"><img src="./IMG/Git.png" width="60px"></a>
-  <a href="https://en.wikipedia.org/wiki/PowerShell" style="margin-right: 10px;"><img src="./IMG/Powershell.png" width="60px"></a>
-  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" style="margin-right: 10px;"><img src="./IMG/Bash.png" width="60px"></a>
-  <a href="https://www.rust-lang.org/" style="margin-right: 10px;"><img src="./IMG/Rust.png" width="60px"></a>
-  <a href="https://www.docker.com/" style="margin-right: 10px;"><img src="./IMG/Docker.png" width="60px"></a>
+  <a href="https://git-scm.com/"><img src="./IMG/Git.png" width="60px"></a>
+  <a href="https://en.wikipedia.org/wiki/PowerShell"><img src="./IMG/Powershell.png" width="60px"></a>
+  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="./IMG/Bash.png" width="60px"></a>
+  <a href="https://www.rust-lang.org/"><img src="./IMG/Rust.png" width="60px"></a>
+  <a href="https://www.docker.com/"><img src="./IMG/Docker.png" width="60px"></a>
   <a href="https://www.markdownguide.org/" ><img src="./IMG/Markdown.png" width="60px"></a>
 </div>
 
