@@ -99,7 +99,7 @@ To start, I'm someone who loves technology, more specifically programming, devel
 
 When I have time to study, I study programming languages for fun and end up doing mini projects. The latest projects aimed to automate processes and actions in Windows using files with extensions like .bat/.vbs/.reg/.ps1/…., another project aimed to create an app with a graphical interface to download high-quality videos and sound from YouTube using the video's URL. It had various download options such as .MP4/.MOV/.MP3/.AAC/.HEVC, and I did it using the Python programming language. The last school project I did was creating a 2D "Simulator" of an earthquake detector and a "simulator" of an earthquake recorder. I did this last project using Python, Rust, and various libraries and dependencies.
 
-<img src="./IMG/Coffee.png" min-width="250px" max-width="250px" width="250px" align="right">
+<img src="./IMG/Coffee.png" min-width="150px" max-width="250px" width="150px" align="right">
 
 I'm a sixth-semester high school student in Mexico, I'm 18 years old, and I'm learning to speak English. At my school, I'm in the area of physical-mathematics, and in the afternoon, I attend mandatory extracurricular classes where I study with my teacher something that I want and is accessible for the class. The last thing we did was to set up a Pi-Hole with a Raspberry Pi 5 using Ubuntu, which worked to block ads from the modem/router.</p>
 
