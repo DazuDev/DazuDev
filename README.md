@@ -93,6 +93,7 @@
 
 # <div align="center"><p>About me</p></div>
 
+<img src="./IMG/code.png" min-width="130px" max-width="180px" width="180px" align="left">
 <p>Hello! In this section, I'll talk a bit about myself.
 
 To start, I'm someone who loves technology, more specifically programming, developing software, and assembling components that ultimately result in hardware.
