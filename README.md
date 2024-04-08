@@ -42,11 +42,10 @@
   <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./IMG/Javascript.png" width="60px"></a>
 </div>
 
-### Database
+### Backend
 
-<div style="display: flex;">
-  <a href="https://www.mysql.com/"><img src="./IMG/Mysql.png" width="60px"  ></a>
-</div>
+<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./IMG/Javascript.png" width="60px" style="margin-right: 10px;"></a>
+<a href="https://www.python.org/"><img src="./IMG/Python.png" width="60px" style="margin-right: 10px;"></a>
 
 ### Other Technologies
 
