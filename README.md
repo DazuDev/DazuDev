@@ -18,6 +18,7 @@
 </div>
 
 <!-- Contact Section -->
+
 # <div align="center"><p>Contact</p></div>
 
 <table align="center">
@@ -32,6 +33,7 @@
 </table>
 
 <!-- Skill Set Section -->
+
 # <div align="center"><p>My Skill Set</p></div>
 
 ### Frontend
@@ -44,8 +46,8 @@
 
 ### Backend
 
-<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./IMG/Javascript.png" width="60px" style="margin-right: 10px;"></a>
-<a href="https://www.python.org/"><img src="./IMG/Python.png" width="60px" style="margin-right: 10px;"></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./IMG/Javascript.png" width="60px"></a>
+<a href="https://www.python.org/"><img src="./IMG/Python.png" width="60px"></a>
 
 ### Other Technologies
 
@@ -53,12 +55,19 @@
   <a href="https://git-scm.com/"><img src="./IMG/Git.png" width="60px"></a>
   <a href="https://en.wikipedia.org/wiki/PowerShell"><img src="./IMG/Powershell.png" width="60px"></a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="./IMG/Bash.png" width="60px"></a>
-  <a href="https://www.rust-lang.org/"><img src="./IMG/Rust.png" width="60px"></a>
   <a href="https://www.docker.com/"><img src="./IMG/Docker.png" width="60px"></a>
   <a href="https://www.markdownguide.org/" ><img src="./IMG/Markdown.png" width="60px"></a>
 </div>
 
+### Learning..
+
+<div style="display: flex;">
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="./IMG/Cpp.png" width="60px"></a>
+  <a href="https://www.rust-lang.org/"><img src="./IMG/Rust.png" width="60px"></a>
+</div>
+
 <!-- Currently Working On Section -->
+
 # <div align="center"><p>I'm Currently Working On</p></div>
 
 <div align="center">
@@ -69,6 +78,7 @@
 </div>
 
 <!-- Operating Systems Section -->
+
 # <div align="center"><p>Operating Systems I Manage</p></div>
 
 <div align="center">
@@ -80,6 +90,7 @@
 </div>
 
 <!-- Repositories Section -->
+
 # <div align="center"><p>My Other Repositories</p></div>
 
 > [!NOTE]
