@@ -55,7 +55,6 @@
   <a href="https://git-scm.com/"><img src="./IMG/Git.png" width="60px"></a>
   <a href="https://en.wikipedia.org/wiki/PowerShell"><img src="./IMG/Powershell.png" width="60px"></a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="./IMG/Bash.png" width="60px"></a>
-  <a href="https://www.docker.com/"><img src="./IMG/Docker.png" width="60px"></a>
   <a href="https://www.markdownguide.org/" ><img src="./IMG/Markdown.png" width="60px"></a>
 </div>
 
