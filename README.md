@@ -117,7 +117,7 @@ I'm a sixth-semester high school student in Mexico, I'm 18 years old, and I'm le
 <!-- GitHub Stats Section - (https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=DazuDev&show_icons=true&theme=transparent&rank_icon=github&border_color=5b37ab&title_color=5b37ab&text_color=FFFFFF&icon_color=5b37ab" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api?username=DazuDev&show_icons=true&theme=transparent&rank_icon=github&border_color=8a4af3&title_color=8a4af3&text_color=FFFFFF&icon_color=8a4af3" media="(prefers-color-scheme: dark)">
     <img src="https://github-readme-stats.vercel.app/api?username=DazuDev&show_icons=true">
   </picture>
 </div>
