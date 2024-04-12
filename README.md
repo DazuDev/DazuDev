@@ -115,7 +115,7 @@ When I have time to study, I study programming languages for fun and end up doin
 # <div align="center"><p>My Other Repositories</p></div>
 
 <div>
-  <img src="./IMG/Obsidian.png" width="120px" align="left" />
+  <img src="./IMG/Obsidian.png" width="80px" align="left" />
 </div>
 
 In my [_**Obsidian Knowledge**_](https://github.com/DazuDev/Obsidian_Knowledge) repository I have various knowledge that I developed between January 5, 2023 and March 10. Basically it contains data that I found while studying some things in general development, such as hacking, tips, bugs, etc. In the future I will update it, since I am still studying in high school.
