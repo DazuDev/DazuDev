@@ -120,6 +120,8 @@ When I have time to study, I study programming languages for fun and end up doin
 
 In my [_**Obsidian Knowledge**_](https://github.com/DazuDev/Obsidian_Knowledge) repository I have various knowledge that I developed between January 5, 2023 and March 10. Basically it contains data that I found while studying some things in general development, such as hacking, tips, bugs, etc. In the future I will update it, since I am still studying in high school.
 
+<br>
+
 I created an [optimizer](https://github.com/DazuDev/Windows_Optimizer) specifically focused on windows, what it does is to improve the speed and increase the performance of windows in general, but in a way more focused on video games, and in the future there will be for MacOS.
 
 <br>
