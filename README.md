@@ -127,8 +127,6 @@ I created an [optimizer](https://github.com/DazuDev/Windows_Optimizer) specifica
 
 <br>
 <br>
-<br>
-<br>
 
 <!-- GitHub Stats Section - (https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center">
