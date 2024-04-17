@@ -18,7 +18,6 @@
 </div>
 
 <!-- Contact Section -->
-
 ## <div align="center">Contact</div>
 
 <table align="center">
@@ -33,7 +32,6 @@
 </table>
 
 <!-- Skill Set Section -->
-
 # <div align="center">My Skill Set</div>
 
 ### Frontend
@@ -66,7 +64,6 @@
 </div>
 
 <!-- Currently Working On Section -->
-
 # <div align="center">I'm Currently Working On</div>
 
 <div align="center">
@@ -77,7 +74,6 @@
 </div>
 
 <!-- Operating Systems Section -->
-
 # <div align="center">Operating Systems I Manage</div>
 
 <div align="center">
@@ -89,7 +85,6 @@
 </div>
 
 <!-- About -->
-
 # <div align="center">About me</div>
 
 <div>
@@ -111,7 +106,6 @@ I'm a sixth-semester high school student in Mexico, I'm 18 years old, and I'm le
 <br>
 
 <!-- Repositories Section -->
-
 # <div align="center">My Other Repositories</div>
 
 <div>
