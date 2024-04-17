@@ -137,6 +137,5 @@ I created an [optimizer](https://github.com/DazuDev/Windows_Optimizer) specifica
 
 <!-- Footer - (https://capsule-render.vercel.app/) -->
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&co
-  lor=884DFF&height=200&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=200&section=footer"/>
 </div>
