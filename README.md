@@ -104,19 +104,6 @@ When I have time to study, I study programming languages for fun and end up doin
 I'm a sixth-semester high school student in Mexico, I'm 18 years old, and I'm learning to speak English. At my school, I'm in the area of physical-mathematics, and in the afternoon, I attend mandatory extracurricular classes where I study with my teacher something that I want and is accessible for the class. The last thing we did was to set up a Pi-Hole with a Raspberry Pi 5 using Ubuntu, which worked to block ads from the modem/router.
 
 <br>
-
-<!-- Repositories Section -->
-# <div align="center">My Other Repositories</div>
-
-<div>
-  <img src="./IMG/Obsidian.png" width="60px" align="left" />
-</div>
-
-In my [_**Obsidian Knowledge**_](https://github.com/DazuDev/Obsidian_Knowledge) repository I have various knowledge that I developed between January 5, 2023 and March 10. Basically it contains data that I found while studying some things in general development, such as hacking, tips, bugs, etc. In the future I will update it, since I am still studying in high school.
-
-I created an [optimizer](https://github.com/DazuDev/Windows_Optimizer) specifically focused on windows, what it does is to improve the speed and increase the performance of windows in general, but in a way more focused on video games, and in the future there will be for MacOS.
-
-<br>
 <br>
 <br>
 <br>
