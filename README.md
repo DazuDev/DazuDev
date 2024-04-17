@@ -19,7 +19,7 @@
 
 <!-- Contact Section -->
 
-# <div align="center"><p>Contact</p></div>
+## <div align="center">Contact</div>
 
 <table align="center">
   <tr>
@@ -34,7 +34,7 @@
 
 <!-- Skill Set Section -->
 
-# <div align="center"><p>My Skill Set</p></div>
+# <div align="center">My Skill Set</div>
 
 ### Frontend
 
@@ -67,7 +67,7 @@
 
 <!-- Currently Working On Section -->
 
-# <div align="center"><p>I'm Currently Working On</p></div>
+# <div align="center">I'm Currently Working On</div>
 
 <div align="center">
   <a href="https://code.visualstudio.com/"><img src="./IMG/VSC.png" width="60px" /></a>
@@ -78,7 +78,7 @@
 
 <!-- Operating Systems Section -->
 
-# <div align="center"><p>Operating Systems I Manage</p></div>
+# <div align="center">Operating Systems I Manage</div>
 
 <div align="center">
   <a href="https://www.apple.com/"><img src="./IMG/Apple.png" width="100px" /></a>
@@ -90,7 +90,7 @@
 
 <!-- About -->
 
-# <div align="center"><p>About me</p></div>
+# <div align="center">About me</div>
 
 <div>
   <img src="./IMG/Coding.png" width="130px" align="left" />
@@ -112,7 +112,7 @@ When I have time to study, I study programming languages for fun and end up doin
 
 <!-- Repositories Section -->
 
-# <div align="center"><p>My Other Repositories</p></div>
+# <div align="center">My Other Repositories</div>
 
 <div>
   <img src="./IMG/Obsidian.png" width="60px" align="left" />
