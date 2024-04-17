@@ -18,7 +18,7 @@
 </div>
 
 <!-- Contact Section -->
-## <div align="center">Contact</div>
+# <div align="center">Contact</div>
 
 <table align="center">
   <tr>
