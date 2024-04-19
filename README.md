@@ -89,9 +89,11 @@
 
 <img src="./IMG/Coding.png" width="130px" align="left" />
 
+<left>
 Hello! In this section, I'll talk a bit about myself.
 
 To start, I'm someone who loves technology, more specifically programming, developing software, and assembling components that ultimately result in hardware.
+</left>
 
 When I have time to study, I study programming languages for fun and end up doing mini projects. The latest projects aimed to automate processes and actions in Windows using files with extensions like .bat/.vbs/.reg/.ps1/…., another project aimed to create an app with a graphical interface to download high-quality videos and sound from YouTube using the video's URL. It had various download options such as .MP4/.MOV/.MP3/.AAC/.HEVC, and I did it using the Python programming language. The last school project I did was creating a 2D "Simulator" of an earthquake detector and a "simulator" of an earthquake recorder. I did this last project using Python, Rust, and various libraries and dependencies.
 
