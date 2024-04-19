@@ -99,9 +99,7 @@ When I have time to study, I study programming languages for fun and end up doin
 
 <img src="./IMG/Coffee.png" width="160px" align="right" />
 
-<right>
 I'm a sixth-semester high school student in Mexico, I'm 18 years old, and I'm learning to speak English. At my school, I'm in the area of physical-mathematics, and in the afternoon, I attend mandatory extracurricular classes where I study with my teacher something that I want and is accessible for the class. The last thing we did was to set up a Pi-Hole with a Raspberry Pi 5 using Ubuntu, which worked to block ads from the modem/router.
-</right>
 
 <br>
 <br>
