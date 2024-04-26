@@ -96,7 +96,7 @@
 # <div align="center">About me</div>
 
 <div>
-<img src="./IMG/Coding.png" width="130px" align="left" />
+<img src="./IMG/Coding.png" width="150px" align="left" />
 </div>
 
 <div style="text-align: justify;"> <!-- Yep... Text justification, Idk what I'm doing :) -->
