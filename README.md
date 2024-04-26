@@ -15,9 +15,7 @@
 <!-- Typing Animation - I used this repo to animate the text (https://github.com/DenverCoder1/readme-typing-svg) -->
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=50&duration=2000&pause=1000&color=F7F7F7&background=FFB2E500&center=true&vCenter=true&repeat=false&random=false&width=600&height=100&lines=Hi%2C+I'm+Daniel+Z%C3%BA%C3%B1iga;Also+known+as+Dazu;Daniel+Z%C3%BA%C3%B1iga+(Dazu)" alt="Typing SVG"/>
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=50&duration=2000&pause=1000&color=F7F7F7&background=FFB2E500&center=true&vCenter=true&repeat=false&random=false&width=600&height=100&lines=Hi%2C+I'm+Daniel+Z%C3%BA%C3%B1iga;Also+known+as+Dazu;Daniel+Z%C3%BA%C3%B1iga+(Dazu)" alt="Typing SVG"/></a>
 </div>
 
 <!-- Contact Section -->
@@ -100,12 +98,12 @@
 
 <td valign="top">
 <center>Español | Spanish <sup>Native</sup></center>
-<div align="center"><br><a href="https://es.wikipedia.org/wiki/México" target="_blank"><img src="./IMG/MX.png" alt="Mexico" height="50px" /></a></div>
+<div align="center"><br><a href="https://es.wikipedia.org/wiki/México"><img src="./IMG/MX.png" alt="Mexico" height="50px" /></a></div>
 </td>
 
 <td valign="top">
 <center>English | Ingles <sup>Learning</sup></center>
-<div align="center"><br><a href="https://en.wikipedia.org/wiki/United_States" target="_blank"><img src="./IMG/US.png" alt="United_States" height="50px" /></a></div>
+<div align="center"><br><a href="https://en.wikipedia.org/wiki/United_States"><img src="./IMG/US.png" alt="United_States" height="50px" /></a></div>
 </td>
 
 </tr>
