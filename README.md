@@ -106,7 +106,7 @@ When I have time to study, I study programming languages for fun and end up doin
 </div>
 
 <div>
-<img src="./IMG/Coffee.png" width="130px" align="right" />
+<img src="./IMG/Coffee.png" width="140px" align="right" />
 </div>
 
 <div style="text-align: justify;">
