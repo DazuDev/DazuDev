@@ -18,7 +18,8 @@
 </div>
 
 <!-- Contact Section -->
-# <div align="center">Contact</div>
+
+# <div align="center">Contact <img src="./IMG/ContactMe.gif" width="45px" /></div>
 
 <table align="center">
   <tr>
@@ -32,7 +33,8 @@
 </table>
 
 <!-- Skill Set Section -->
-# <div align="center">My Skill Set</div>
+
+# <div align="center">My Skill Set <img src="./IMG/Code.gif" width="23px" /></div>
 
 ### Frontend
 
@@ -64,6 +66,7 @@
 </div>
 
 <!-- Currently Working On Section -->
+
 # <div align="center">I'm Currently Working On</div>
 
 <div align="center">
@@ -74,6 +77,7 @@
 </div>
 
 <!-- Operating Systems Section -->
+
 # <div align="center">Operating Systems I Manage</div>
 
 <div align="center">
@@ -85,6 +89,7 @@
 </div>
 
 <!-- About -->
+
 # <div align="center">About me</div>
 
 <img src="./IMG/Coding.png" width="130px" align="left" />
