@@ -84,11 +84,11 @@
 # <div align="center">Operating Systems I Manage</div>
 
 <div align="center">
-  <a href="https://www.apple.com/"><img src="./IMG/Apple.png" width="100px" /></a>
-  <a href="https://www.microsoft.com/"><img src="./IMG/Windows.png" width="100px" /></a>
-  <a href="https://www.kali.org/"><img src="./IMG/KaliLinux.png" width="100px" /></a>
-  <a href="https://ubuntu.com/"><img src="./IMG/Ubuntu.png" width="100px" /></a>
-  <a href="https://www.linux.org/"><img src="./IMG/Linux.png" width="100px" /></a>
+  <a href="https://www.apple.com/"><img src="./IMG/Apple.png" width="80px" /></a>
+  <a href="https://www.microsoft.com/"><img src="./IMG/Windows.png" width="80px" /></a>
+  <a href="https://www.kali.org/"><img src="./IMG/KaliLinux.png" width="80px" /></a>
+  <a href="https://ubuntu.com/"><img src="./IMG/Ubuntu.png" width="80px" /></a>
+  <a href="https://www.linux.org/"><img src="./IMG/Linux.png" width="80px" /></a>
 </div>
 
 <!-- Lenguages -->
