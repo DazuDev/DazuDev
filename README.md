@@ -1,16 +1,19 @@
 <!-- For the icons I used the website skillicons (https://skillicons.dev/) -->
 
 <!-- (https://capsule-render.vercel.app/) -->
+
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=80&section=header"/>
 </div>
 
 <!-- Banner -->
+
 <div align="center">
   <img src="./IMG/Banner-mid-short.png" width="100%" />
 </div>
 
 <!-- Typing Animation - I used this repo to animate the text (https://github.com/DenverCoder1/readme-typing-svg) -->
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=50&duration=2000&pause=1000&color=F7F7F7&background=FFB2E500&center=true&vCenter=true&repeat=false&random=false&width=600&height=100&lines=Hi%2C+I'm+Daniel+Z%C3%BA%C3%B1iga;Also+known+as+Dazu;Daniel+Z%C3%BA%C3%B1iga+(Dazu)" alt="Typing SVG"/>
@@ -92,19 +95,23 @@
 
 # <div align="center">About me</div>
 
+<div>
 <img src="./IMG/Coding.png" width="130px" align="left" />
+</div>
 
-<left>
-Hello! In this section, I'll talk a bit about myself.
+<div style="text-align: justify;"> <!-- Yep... Text justification, Idk what I'm doing :) -->
+<p>Hello! In this section, I'll talk a bit about myself.<br><br>
+To start, I'm someone who loves technology, more specifically programming, developing software, and assembling components that ultimately result in hardware.<br><br>
+When I have time to study, I study programming languages for fun and end up doing mini projects. The latest projects aimed to automate processes and actions in Windows using files with extensions like .bat/.vbs/.reg/.ps1/…., another project aimed to create an app with a graphical interface to download high-quality videos and sound from YouTube using the video's URL. It had various download options such as .MP4/.MOV/.MP3/.AAC/.HEVC, and I did it using the Python programming language. The last school project I did was creating a 2D "Simulator" of an earthquake detector and a "simulator" of an earthquake recorder. I did this last project using Python, Rust, and various libraries and dependencies.</p>
+</div>
 
-To start, I'm someone who loves technology, more specifically programming, developing software, and assembling components that ultimately result in hardware.
-</left>
+<div>
+<img src="./IMG/Coffee.png" width="130px" align="right" />
+</div>
 
-When I have time to study, I study programming languages for fun and end up doing mini projects. The latest projects aimed to automate processes and actions in Windows using files with extensions like .bat/.vbs/.reg/.ps1/…., another project aimed to create an app with a graphical interface to download high-quality videos and sound from YouTube using the video's URL. It had various download options such as .MP4/.MOV/.MP3/.AAC/.HEVC, and I did it using the Python programming language. The last school project I did was creating a 2D "Simulator" of an earthquake detector and a "simulator" of an earthquake recorder. I did this last project using Python, Rust, and various libraries and dependencies.
-
-<img src="./IMG/Coffee.png" width="160px" align="right" />
-
-I'm a sixth-semester high school student in Mexico, I'm 18 years old, and I'm learning to speak English. At my school, I'm in the area of physical-mathematics, and in the afternoon, I attend mandatory extracurricular classes where I study with my teacher something that I want and is accessible for the class. The last thing we did was to set up a Pi-Hole with a Raspberry Pi 5 using Ubuntu, which worked to block ads from the modem/router.
+<div style="text-align: justify;">
+<p>I'm a sixth-semester high school student in Mexico, I'm 18 years old, and I'm learning to speak English. At my school, I'm in the area of physical-mathematics, and in the afternoon, I attend mandatory extracurricular classes where I study with my teacher something that I want and is accessible for the class. The last thing we did was to set up a Pi-Hole using Ubuntu, which worked to block ads from the modem/router.</p>
+</div>
 
 <br>
 <br>
@@ -112,6 +119,7 @@ I'm a sixth-semester high school student in Mexico, I'm 18 years old, and I'm le
 <br>
 
 <!-- GitHub Stats Section - (https://github.com/anuraghazra/github-readme-stats) -->
+
 <div align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=DazuDev&show_icons=true&theme=transparent&rank_icon=github&border_color=8a4af3&title_color=8a4af3&text_color=FFFFFF&icon_color=8a4af3" media="(prefers-color-scheme: dark)">
@@ -120,6 +128,7 @@ I'm a sixth-semester high school student in Mexico, I'm 18 years old, and I'm le
 </div>
 
 <!-- Footer - (https://capsule-render.vercel.app/) -->
+
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=200&section=footer"/>
 </div>
