@@ -100,11 +100,13 @@
 
 <td valign="top">
 <center>Español | Spanish <sup>Native</sup></center>
+<br>
 <div align="center"><a href="https://es.wikipedia.org/wiki/México" target="_blank"><img src="./IMG/MX.png" alt="Mexico" height="50px" /></a></div>
 </td>
 
 <td valign="top">
 <center>English | Ingles <sup>Learning</sup></center>
+<br>
 <div align="center"><a href="https://en.wikipedia.org/wiki/United_States" target="_blank"><img src="./IMG/US.png" alt="United_States" height="50px" /></a></div>
 </td>
 
