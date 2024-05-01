@@ -120,7 +120,7 @@ When I have free time to study, I delve into programming languages and enjoy wor
 </div>
 
 <div>
-<img src="./IMG/Coffee.png" width="110px" align="right" />
+<img src="./IMG/Coffee.png" width="140px" align="right" />
 </div>
 
 <div style="text-align: justify;">
