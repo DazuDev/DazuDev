@@ -62,7 +62,8 @@
 
 <div style="display: flex;">
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="./IMG/Cpp.png" width="60px" /></a>
-  <a href="https://www.rust-lang.org/"><img src="./IMG/Rust.png" width="60px" /></a>
+  <a href="https://www.rust-lang.org/"><img src="./IMG/Swift.png" width="60px" /></a>
+  <a href="https://developer.apple.com/swift/"><img src="./IMG/Rust.png" width="60px" /></a>
 </div>
 
 <!-- Currently Working On Section -->
@@ -71,6 +72,7 @@
 
 <div align="center">
   <a href="https://code.visualstudio.com/"><img src="./IMG/VSC.png" width="60px" /></a>
+  <a href="https://www.sublimetext.com/"><img src="./IMG/SublimeText.png" width="60px" /></a>
   <a href="https://obsidian.md/"><img src="./IMG/Obsidian.png" width="60px" /></a>
   <a href="https://www.notion.so/"><img src="./IMG/Notion.png" width="60px" /></a>
   <a href="https://www.figma.com/"><img src="./IMG/Figma.png" width="60px" /></a>
