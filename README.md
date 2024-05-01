@@ -43,8 +43,10 @@
 
 ### Backend
 
-<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./IMG/Javascript.png" width="60px" /></a>
-<a href="https://www.python.org/"><img src="./IMG/Python.png" width="60px" /></a>
+<div style="display: flex;">
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./IMG/Javascript.png" width="60px" /></a>
+  <a href="https://www.python.org/"><img src="./IMG/Python.png" width="60px" /></a>
+</div>
 
 ### Other Technologies
 
@@ -107,7 +109,7 @@
 ## <div align="center">About me</div>
 
 <div>
-<img src="./IMG/Coding.png" width="120px" align="left" />
+  <img src="./IMG/Coding.png" width="120px" align="left" />
 </div>
 
 <div>
@@ -120,7 +122,7 @@ When I have free time to study, I delve into programming languages and enjoy wor
 </div>
 
 <div>
-<img src="./IMG/Coffee.png" width="140px" align="right" />
+  <img src="./IMG/Coffee.png" width="140px" align="right" />
 </div>
 
 <div>
