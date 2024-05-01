@@ -2,25 +2,21 @@
 
 <!-- (https://capsule-render.vercel.app/) -->
 
-<center>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=80&section=header"/>
-</center>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=80&section=header"/>
 
 <!-- Banner -->
 
-<center>
-  <img src="./IMG/Banner-mid-short.png" width="100%" />
-</center>
+<img src="./IMG/Banner-mid-short.png" width="100%" />
 
 <!-- Typing Animation - I used this repo to animate the text (https://github.com/DenverCoder1/readme-typing-svg) -->
 
-<center>
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=50&duration=2000&pause=1000&color=F7F7F7&background=FFB2E500&center=true&vCenter=true&repeat=false&random=false&width=600&height=100&lines=Hi%2C+I'm+Daniel+Z%C3%BA%C3%B1iga;Also+known+as+Dazu;Daniel+Z%C3%BA%C3%B1iga+(Dazu)" alt="Typing SVG"/></a>
-</center>
+</div>
 
 <!-- Contact Section -->
 
-## <center>Contact</center>
+## <div align="center">Contact</div>
 
 <table align="center">
     <tr>
@@ -35,7 +31,7 @@
 
 <!-- Skill Set Section -->
 
-# <center>My Skill Set</center>
+# <div align="center">My Skill Set</div>
 
 ### Frontend
 
@@ -68,30 +64,30 @@
 
 <!-- Currently Working On Section -->
 
-## <center>I'm Currently Working On</center>
+## <div align="center">I'm Currently Working On</div>
 
-<center>
+<div align="center">
   <a href="https://code.visualstudio.com/"><img src="./IMG/VSC.png" width="60px" /></a>
   <a href="https://obsidian.md/"><img src="./IMG/Obsidian.png" width="60px" /></a>
   <a href="https://www.notion.so/"><img src="./IMG/Notion.png" width="60px" /></a>
   <a href="https://www.figma.com/"><img src="./IMG/Figma.png" width="60px" /></a>
-</center>
+</div>
 
 <!-- Operating Systems Section -->
 
-## <center>Operating Systems I Manage</center>
+## <div align="center">Operating Systems I Manage</div>
 
-<center>
+<div align="center">
   <a href="https://www.apple.com/"><img src="./IMG/Apple.png" width="80px" /></a>
   <a href="https://www.microsoft.com/"><img src="./IMG/Windows.png" width="80px" /></a>
   <a href="https://www.kali.org/"><img src="./IMG/KaliLinux.png" width="80px" /></a>
   <a href="https://ubuntu.com/"><img src="./IMG/Ubuntu.png" width="80px" /></a>
   <a href="https://www.linux.org/"><img src="./IMG/Linux.png" width="80px" /></a>
-</center>
+</div>
 
 <!-- Lenguages -->
 
-## <center>Lenguages</center>
+## <div align="center">Lenguages</div>
 
 <table align="center">
     <tr>
@@ -108,7 +104,7 @@
 
 <!-- About -->
 
-## <center>About me</center>
+## <div align="center">About me</div>
 
 <div>
 <img src="./IMG/Coding.png" width="120px" align="left" />
@@ -138,15 +134,13 @@ Currently, I'm in the sixth semester of high school in Mexico, I'm 18 years old,
 
 <!-- GitHub Stats Section - (https://github.com/anuraghazra/github-readme-stats) -->
 
-<center>
+<div align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=DazuDev&show_icons=true&theme=transparent&rank_icon=github&border_color=8a4af3&title_color=8a4af3&text_color=FFFFFF&icon_color=8a4af3" media="(prefers-color-scheme: dark)">
     <img src="https://github-readme-stats.vercel.app/api?username=DazuDev&show_icons=true" />
   </picture>
-</center>
+</div>
 
 <!-- Footer - (https://capsule-render.vercel.app/) -->
 
-<center>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=200&section=footer"/>
-</center>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=200&section=footer"/>
