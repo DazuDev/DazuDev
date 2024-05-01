@@ -122,7 +122,7 @@ Hello! In this section, I'll talk a bit about myself.
 
 To start, I'm someone who loves technology, specifically programming, software development, and assembling components that result in functional hardware.<br><br>
 
-When I have free time to study, I delve into programming languages and enjoy working on small projects. My recent projects have focused on automating processes and actions in Windows using files with extensions like .bat, .vbs, .reg, .ps1, among others. Additionally, I've developed an application with a graphical interface to download high-quality videos and audio from YouTube using Python. This application offers various download options such as .MP4, .MOV, .MP3, .AAC, .HEVC.
+<br>When I have free time to study, I delve into programming languages and enjoy working on small projects. My recent projects have focused on automating processes and actions in Windows using files with extensions like .bat, .vbs, .reg, .ps1, among others. Additionally, I've developed an application with a graphical interface to download high-quality videos and audio from YouTube using Python. This application offers various download options such as .MP4, .MOV, .MP3, .AAC, .HEVC.
 
 Recently, as part of a school project, I created a 2D "Simulator" of an earthquake detector and a "simulator" of an earthquake recorder, using Python, Rust, and various libraries and dependencies.
 </div>
