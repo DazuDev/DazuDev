@@ -110,7 +110,7 @@
 <img src="./IMG/Coding.png" width="120px" align="left" />
 </div>
 
-<div style="text-align: justify;"> <!-- Yep... Text justification, Idk what I'm doing :) -->
+<div>
 Hello! In this section, I'll talk a bit about myself.<br><br>
 
 To start, I'm someone who loves technology, specifically programming, software development, and assembling components that result in functional hardware.<br><br>
@@ -123,7 +123,7 @@ When I have free time to study, I delve into programming languages and enjoy wor
 <img src="./IMG/Coffee.png" width="140px" align="right" />
 </div>
 
-<div style="text-align: justify;">
+<div>
 Currently, I'm in the sixth semester of high school in Mexico, I'm 18 years old, and I'm learning English. At my school, I specialize in the area of physical-mathematics. In the afternoons, I attend mandatory extracurricular classes where I study topics of interest with my teacher, which are accessible to the class. Recently, we set up a Pi-Hole using Ubuntu, which has been useful for blocking ads from the modem/router.
 </div>
 
