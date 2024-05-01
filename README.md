@@ -18,7 +18,7 @@
 
 ## <div align="center">Contact</div>
 
-<table align="center">
+<table align="center" border="5">
     <tr>
         <th><a href="https://mail.google.com/"><img src="./IMG/Gmail.png" width="50px" /></a></th>
         <th>dazu.dev@gmail.com</th>
