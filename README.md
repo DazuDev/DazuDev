@@ -2,40 +2,40 @@
 
 <!-- (https://capsule-render.vercel.app/) -->
 
-<div align="center">
+<center>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=80&section=header"/>
-</div>
+</center>
 
 <!-- Banner -->
 
-<div align="center">
+<center>
   <img src="./IMG/Banner-mid-short.png" width="100%" />
-</div>
+</center>
 
 <!-- Typing Animation - I used this repo to animate the text (https://github.com/DenverCoder1/readme-typing-svg) -->
 
-<div align="center">
+<center>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=50&duration=2000&pause=1000&color=F7F7F7&background=FFB2E500&center=true&vCenter=true&repeat=false&random=false&width=600&height=100&lines=Hi%2C+I'm+Daniel+Z%C3%BA%C3%B1iga;Also+known+as+Dazu;Daniel+Z%C3%BA%C3%B1iga+(Dazu)" alt="Typing SVG"/></a>
-</div>
+</center>
 
 <!-- Contact Section -->
 
-# <div align="center">Contact <img src="./IMG/ContactMe.gif" width="45px" /></div>
+## <center>Contact</center>
 
 <table align="center">
-  <tr>
-    <th><a href="https://mail.google.com/"><img src="./IMG/Gmail.png" width="50px" alt="dazu.dev@gmail.com" /></a></th>
-    <th><a href="mailto:dazu.dev@gmail.com" style="font-size: 25px;">dazu.dev@gmail.com</a></th>
-  </tr>
-  <tr>
-    <th><a href="https://www.linkedin.com/in/dazu/"><img src="./IMG/LinkedIn.png" width="50px" /></a></th>
-    <th><a href="https://www.linkedin.com/in/dazu/" style="font-size: 25px;">Daniel Zúñiga <sub>(Dazu)</sub></a></th>
-  </tr>
+    <tr>
+        <th><a href="https://mail.google.com/"><img src="./IMG/Gmail.png" width="50px" /></a></th>
+        <th>dazu.dev@gmail.com</th>
+    </tr>
+    <tr>
+        <th><a href="https://www.linkedin.com/in/dazu/"><img src="./IMG/LinkedIn.png" width="50px" /></a></th>
+        <th>Daniel Zúñiga <sub>(Dazu)</sub></th>
+    </tr>
 </table>
 
 <!-- Skill Set Section -->
 
-# <div align="center">My Skill Set <img src="./IMG/Code.gif" width="23px" /></div>
+# <center>My Skill Set</center>
 
 ### Frontend
 
@@ -68,63 +68,59 @@
 
 <!-- Currently Working On Section -->
 
-# <div align="center">I'm Currently Working On</div>
+## <center>I'm Currently Working On</center>
 
-<div align="center">
+<center>
   <a href="https://code.visualstudio.com/"><img src="./IMG/VSC.png" width="60px" /></a>
   <a href="https://obsidian.md/"><img src="./IMG/Obsidian.png" width="60px" /></a>
   <a href="https://www.notion.so/"><img src="./IMG/Notion.png" width="60px" /></a>
   <a href="https://www.figma.com/"><img src="./IMG/Figma.png" width="60px" /></a>
-</div>
+</center>
 
 <!-- Operating Systems Section -->
 
-# <div align="center">Operating Systems I Manage</div>
+## <center>Operating Systems I Manage</center>
 
-<div align="center">
+<center>
   <a href="https://www.apple.com/"><img src="./IMG/Apple.png" width="80px" /></a>
   <a href="https://www.microsoft.com/"><img src="./IMG/Windows.png" width="80px" /></a>
   <a href="https://www.kali.org/"><img src="./IMG/KaliLinux.png" width="80px" /></a>
   <a href="https://ubuntu.com/"><img src="./IMG/Ubuntu.png" width="80px" /></a>
   <a href="https://www.linux.org/"><img src="./IMG/Linux.png" width="80px" /></a>
-</div>
+</center>
 
 <!-- Lenguages -->
 
-# <div align="center">Lenguages</div>
+## <center>Lenguages</center>
 
 <table align="center">
-<tr>
-
-<td valign="top">
-<center>Español | Spanish <sup>Native</sup></center>
-<div align="center"><br><a href="https://es.wikipedia.org/wiki/México"><img src="./IMG/MX.png" alt="Mexico" height="50px" /></a></div>
-</td>
-
-<td valign="top">
-<center>English | Ingles <sup>Learning</sup></center>
-<div align="center"><br><a href="https://en.wikipedia.org/wiki/United_States"><img src="./IMG/US.png" alt="United_States" height="50px" /></a></div>
-</td>
-
-</tr>
+    <tr>
+        <td valign="top">
+            <center>Español | Spanish <sup>Native</sup></center>
+            <div align="center"><br><a href="https://es.wikipedia.org/wiki/México"><img src="./IMG/MX.png" alt="Mexico" height="50px" /></a></div>
+        </td>
+        <td valign="top">
+            <center>English | Inglés <sup>Learning</sup></center>
+            <div align="center"><br><a href="https://en.wikipedia.org/wiki/United_States"><img src="./IMG/US.png" alt="United States" height="50px" /></a></div>
+        </td>
+    </tr>
 </table>
 
 <!-- About -->
 
-# <div align="center">About me</div>
+## <center>About me</center>
 
 <div>
 <img src="./IMG/Coding.png" width="120px" align="left" />
 </div>
 
 <div style="text-align: justify;"> <!-- Yep... Text justification, Idk what I'm doing :) -->
-Hello! In this section, I'll talk a bit about myself.
+Hello! In this section, I'll talk a bit about myself.<br><br>
 
 To start, I'm someone who loves technology, specifically programming, software development, and assembling components that result in functional hardware.<br><br>
 
-When I have free time to study, I delve into programming languages and enjoy working on small projects. My recent projects have focused on automating processes and actions in Windows using files with extensions like .bat, .vbs, .reg, .ps1, among others. Additionally, I've developed an application with a graphical interface to download high-quality videos and audio from YouTube using Python. This application offers various download options such as .MP4, .MOV, .MP3, .AAC, .HEVC.
+When I have free time to study, I delve into programming languages and enjoy working on small projects. My recent projects have focused on automating processes and actions in Windows using files with extensions like .bat, .vbs, .reg, .ps1, among others.
 
-Recently, as part of a school project, I created a 2D "Simulator" of an earthquake detector and a "simulator" of an earthquake recorder, using Python, Rust, and various libraries and dependencies.
 </div>
 
 <div>
@@ -142,15 +138,15 @@ Currently, I'm in the sixth semester of high school in Mexico, I'm 18 years old,
 
 <!-- GitHub Stats Section - (https://github.com/anuraghazra/github-readme-stats) -->
 
-<div align="center">
+<center>
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=DazuDev&show_icons=true&theme=transparent&rank_icon=github&border_color=8a4af3&title_color=8a4af3&text_color=FFFFFF&icon_color=8a4af3" media="(prefers-color-scheme: dark)">
     <img src="https://github-readme-stats.vercel.app/api?username=DazuDev&show_icons=true" />
   </picture>
-</div>
+</center>
 
 <!-- Footer - (https://capsule-render.vercel.app/) -->
 
-<div align="center">
+<center>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=200&section=footer"/>
-</div>
+</center>
