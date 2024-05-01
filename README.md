@@ -115,7 +115,7 @@ Hello! In this section, I'll talk a bit about myself.<br><br>
 
 To start, I'm someone who loves technology, specifically programming, software development, and assembling components that result in functional hardware.<br><br>
 
-When I have free time to study, I delve into programming languages and enjoy working on small projects. My recent projects have focused on automating processes and actions in Windows using files with extensions like .bat, .vbs, .reg, .ps1, among others.
+When I have free time to study, I delve into programming languages and enjoy working on small projects. My recent projects have focused on automating processes and actions in Windows using files with extensions like .bat, .vbs, .reg, .ps1, among others.<br><br>
 
 </div>
 
