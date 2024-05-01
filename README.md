@@ -128,7 +128,7 @@ Recently, as part of a school project, I created a 2D "Simulator" of an earthqua
 </div>
 
 <div>
-<img src="./IMG/Coffee.png" width="140px" align="right" />
+<img src="./IMG/Coffee.png" width="110px" align="right" />
 </div>
 
 <div style="text-align: justify;">
