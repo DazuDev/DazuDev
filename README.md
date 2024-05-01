@@ -118,9 +118,13 @@
 </div>
 
 <div style="text-align: justify;"> <!-- Yep... Text justification, Idk what I'm doing :) -->
-<p>Hello! In this section, I'll talk a bit about myself.<br><br>
-To start, I'm someone who loves technology, more specifically programming, developing software, and assembling components that ultimately result in hardware.<br><br>
-<br>When I have time to study, I study programming languages for fun and end up doing mini projects. The latest projects aimed to automate processes and actions in Windows using files with extensions like .bat/.vbs/.reg/.ps1/…., another project aimed to create an app with a graphical interface to download high-quality videos and sound from YouTube using the video's URL. It had various download options such as .MP4/.MOV/.MP3/.AAC/.HEVC, and I did it using the Python programming language. The last school project I did was creating a 2D "Simulator" of an earthquake detector and a "simulator" of an earthquake recorder. I did this last project using Python, Rust, and various libraries and dependencies.</p>
+Hello! In this section, I'll talk a bit about myself.
+
+To start, I'm someone who loves technology, specifically programming, software development, and assembling components that result in functional hardware.<br><br>
+
+When I have free time to study, I delve into programming languages and enjoy working on small projects. My recent projects have focused on automating processes and actions in Windows using files with extensions like .bat, .vbs, .reg, .ps1, among others. Additionally, I've developed an application with a graphical interface to download high-quality videos and audio from YouTube using Python. This application offers various download options such as .MP4, .MOV, .MP3, .AAC, .HEVC.
+
+Recently, as part of a school project, I created a 2D "Simulator" of an earthquake detector and a "simulator" of an earthquake recorder, using Python, Rust, and various libraries and dependencies.
 </div>
 
 <div>
@@ -128,7 +132,7 @@ To start, I'm someone who loves technology, more specifically programming, devel
 </div>
 
 <div style="text-align: justify;">
-<p>I'm a sixth-semester high school student in Mexico, I'm 18 years old, and I'm learning to speak English. At my school, I'm in the area of physical-mathematics, and in the afternoon, I attend mandatory extracurricular classes where I study with my teacher something that I want and is accessible for the class. The last thing we did was to set up a Pi-Hole using Ubuntu, which worked to block ads from the modem/router.</p>
+Currently, I'm in the sixth semester of high school in Mexico, I'm 18 years old, and I'm learning English. At my school, I specialize in the area of physical-mathematics. In the afternoons, I attend mandatory extracurricular classes where I study topics of interest with my teacher, which are accessible to the class. Recently, we set up a Pi-Hole using Ubuntu, which has been useful for blocking ads from the modem/router.
 </div>
 
 <br>
