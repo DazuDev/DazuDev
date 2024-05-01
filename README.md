@@ -46,6 +46,7 @@
 <div style="display: flex;">
   <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./IMG/Javascript.png" width="60px" /></a>
   <a href="https://www.python.org/"><img src="./IMG/Python.png" width="60px" /></a>
+  <a href="https://www.mysql.com/"><img src="./IMG/Mysql.png" width="60px" /></a>
 </div>
 
 ### Other Technologies
