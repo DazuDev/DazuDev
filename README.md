@@ -6,7 +6,7 @@
 
 <!-- Banner -->
 
-<img src="./IMG/Banner-mid-short.png" width="100%" />
+<!-- <img src="./IMG/Banner-mid-short.png" width="100%" /> -->
 
 <!-- Typing Animation - I used this repo to animate the text (https://github.com/DenverCoder1/readme-typing-svg) -->
 
@@ -74,8 +74,8 @@
   <a href="https://code.visualstudio.com/"><img src="./IMG/VSC.png" width="60px" /></a>
   <a href="https://www.sublimetext.com/"><img src="./IMG/SublimeText.png" width="60px" /></a>
   <a href="https://obsidian.md/"><img src="./IMG/Obsidian.png" width="60px" /></a>
-  <a href="https://www.notion.so/"><img src="./IMG/Notion.png" width="60px" /></a>
   <a href="https://www.figma.com/"><img src="./IMG/Figma.png" width="60px" /></a>
+  <a href="https://www.notion.so/"><img src="./IMG/Notion.png" width="60px" /></a>
 </div>
 
 <!-- Operating Systems Section -->
@@ -85,9 +85,9 @@
 <div align="center">
   <a href="https://www.apple.com/"><img src="./IMG/Apple.png" width="80px" /></a>
   <a href="https://www.microsoft.com/"><img src="./IMG/Windows.png" width="80px" /></a>
-  <a href="https://www.kali.org/"><img src="./IMG/KaliLinux.png" width="80px" /></a>
   <a href="https://ubuntu.com/"><img src="./IMG/Ubuntu.png" width="80px" /></a>
   <a href="https://www.linux.org/"><img src="./IMG/Linux.png" width="80px" /></a>
+  <a href="https://www.kali.org/"><img src="./IMG/KaliLinux.png" width="80px" /></a>
 </div>
 
 <!-- Lenguages -->
