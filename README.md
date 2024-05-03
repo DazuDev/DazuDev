@@ -18,16 +18,18 @@
 
 ## <div align="center">Contact</div>
 
-<table align="center">
-    <tr>
-        <th><a href="https://mail.google.com/"><img src="./IMG/Gmail.png" width="50px" /></a></th>
-        <th>dazu.dev@gmail.com</th>
-    </tr>
-    <tr>
-        <th><a href="https://www.linkedin.com/in/dazu/"><img src="./IMG/LinkedIn.png" width="50px" /></a></th>
-        <th>Daniel Zúñiga <sub>(Dazu)</sub></th>
-    </tr>
-</table>
+<div align="center">
+  <table align="center">
+      <tr>
+          <th><a href="https://mail.google.com/"><img src="./IMG/Gmail.png" width="50px" /></a></th>
+          <th>dazu.dev@gmail.com</th>
+      </tr>
+      <tr>
+          <th><a href="https://www.linkedin.com/in/dazu/"><img src="./IMG/LinkedIn.png" width="50px" /></a></th>
+          <th>Daniel Zúñiga <sub>(Dazu)</sub></th>
+      </tr>
+  </table>
+</div>
 
 <!-- Skill Set Section -->
 
