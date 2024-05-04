@@ -18,16 +18,26 @@
 
 ## <div align="center">Contact</div>
 
-<table align="center">
+<div align="center">
+  <table>
     <tr>
-        <th><a href="https://mail.google.com/"><img src="./IMG/Gmail.png" width="50px" /></a></th>
-        <th>dazu.dev@gmail.com</th>
+      <td align="center">
+        <a href="https://mail.google.com/">
+          <img src="./IMG/Gmail.png" width="50px" alt="Gmail Icon">
+        </a>
+      </td>
+      <td align="center"><a href="mailto:dazu.dev@gmail.com">dazu.dev@gmail.com</a></td>
     </tr>
     <tr>
-        <th><a href="https://www.linkedin.com/in/dazu/"><img src="./IMG/LinkedIn.png" width="50px" /></a></th>
-        <th>Daniel Zúñiga <sub>(Dazu)</sub></th>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/dazu/">
+          <img src="./IMG/LinkedIn.png" width="50px" alt="LinkedIn Icon">
+        </a>
+      </td>
+      <td align="center"><a href="https://www.linkedin.com/in/dazu/">Daniel Zúñiga <sub>(Dazu)</sub></a></td>
     </tr>
-</table>
+  </table>
+</div>
 
 <!-- Skill Set Section -->
 
@@ -94,18 +104,20 @@
 
 ## <div align="center">Lenguages</div>
 
-<table align="center" border="10">
-    <tr>
-        <td valign="top">
-            <center>Español | Spanish <sup>Native</sup></center>
-            <div align="center"><br><a href="https://es.wikipedia.org/wiki/México"><img src="./IMG/MX.png" alt="Mexico" height="70px" /></a></div>
-        </td>
-        <td valign="top">
-            <center>English | Inglés <sup>Learning</sup></center>
-            <div align="center"><br><a href="https://en.wikipedia.org/wiki/United_States"><img src="./IMG/US.png" alt="United States" height="70px" /></a></div>
-        </td>
-    </tr>
-</table>
+<p align="center">
+    <table border="10">
+        <tr>
+            <td valign="top">
+                <center>Español | Spanish <sup>Native</sup></center>
+                <div align="center"><br><a href="https://es.wikipedia.org/wiki/México"><img src="./IMG/MX.png" alt="Mexico" height="70px" /></a></div>
+            </td>
+            <td valign="top">
+                <center>English | Inglés <sup>Learning</sup></center>
+                <div align="center"><br><a href="https://en.wikipedia.org/wiki/United_States"><img src="./IMG/US.png" alt="United States" height="70px" /></a></div>
+            </td>
+        </tr>
+    </table>
+</p>
 
 <!-- About -->
 
