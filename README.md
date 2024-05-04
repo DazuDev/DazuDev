@@ -30,7 +30,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://www.linkedin.com/in/dazu/">
+        <a href="https://www.linkedin.com/">
           <img src="./IMG/LinkedIn.png" width="50px" alt="LinkedIn Icon">
         </a>
       </td>
