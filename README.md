@@ -104,7 +104,7 @@
 
 ## <div align="center">Lenguages</div>
 
-<table border="10">
+<table align="center" border="10">
   <tr>
       <td valign="top">
           <center>Español | Spanish <sup>Native</sup></center>
