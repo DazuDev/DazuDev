@@ -106,16 +106,17 @@
 
 <table align="center" border="10">
   <tr>
-      <td valign="top">
-          <center>Español | Spanish <sup>Native</sup></center>
-            <div align="center"><br><a href="https://es.wikipedia.org/wiki/México"><img src="./IMG/MX.png" alt="Mexico" height="70px" /></a></div>
-            </td>
-            <td valign="top">
-                <center>English | Inglés <sup>Learning</sup></center>
-                <div align="center"><br><a href="https://en.wikipedia.org/wiki/United_States"><img src="./IMG/US.png" alt="United States" height="70px" /></a></div>
-            </td>
+    <td valign="top">
+      <center>Español | Spanish <sup>Native</sup></center>
+      <div align="center"><br><a href="https://es.wikipedia.org/wiki/México"><img src="./IMG/MX.png" alt="Mexico" height="70px" /></a></div>
+    </td>
+    <td valign="top">
+      <center>English | Inglés <sup>Learning</sup></center>
+      <div align="center"><br><a href="https://en.wikipedia.org/wiki/United_States"><img src="./IMG/US.png" alt="United States" height="70px" /></a></div>
+    </td>
   </tr>
 </table>
+
 
 <!-- About -->
 
