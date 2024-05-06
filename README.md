@@ -117,7 +117,6 @@
   </tr>
 </table>
 
-
 <!-- About -->
 
 ## <div align="center">About me</div>
