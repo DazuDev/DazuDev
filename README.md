@@ -46,33 +46,33 @@
 ### Frontend
 
 <div style="display: flex;">
-  <a href="https://en.wikipedia.org/wiki/HTML"><img src="./IMG/Html.png" width="60px" /></a>
-  <a href="https://en.wikipedia.org/wiki/CSS"><img src="./IMG/Css.png" width="60px" /></a>
+  <a href="https://en.wikipedia.org/wiki/HTML"><img src="./IMG/Html.png" width="60px" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/CSS"><img src="./IMG/Css.png" width="60px" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./IMG/Javascript.png" width="60px" /></a>
 </div>
 
 ### Backend
 
 <div style="display: flex;">
-  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./IMG/Javascript.png" width="60px" /></a>
-  <a href="https://www.python.org/"><img src="./IMG/Python.png" width="60px" /></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./IMG/Javascript.png" width="60px" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org/"><img src="./IMG/Python.png" width="60px" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/"><img src="./IMG/Mysql.png" width="60px" /></a>
 </div>
 
 ### Other Technologies
 
 <div style="display: flex;">
-  <a href="https://git-scm.com/"><img src="./IMG/Git.png" width="60px" /></a>
-  <a href="https://en.wikipedia.org/wiki/PowerShell"><img src="./IMG/Powershell.png" width="60px" /></a>
-  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="./IMG/Bash.png" width="60px" /></a>
+  <a href="https://git-scm.com/"><img src="./IMG/Git.png" width="60px" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/PowerShell"><img src="./IMG/Powershell.png" width="60px" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="./IMG/Bash.png" width="60px" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.markdownguide.org/" ><img src="./IMG/Markdown.png" width="60px" /></a>
 </div>
 
 ### Learning..
 
 <div style="display: flex;">
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="./IMG/Cpp.png" width="60px" /></a>
-  <a href="https://www.rust-lang.org/"><img src="./IMG/Swift.png" width="60px" /></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="./IMG/Cpp.png" width="60px" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.rust-lang.org/"><img src="./IMG/Swift.png" width="60px" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://developer.apple.com/swift/"><img src="./IMG/Rust.png" width="60px" /></a>
 </div>
 
@@ -81,10 +81,10 @@
 ## <div align="center">I'm Currently Working On</div>
 
 <div align="center">
-  <a href="https://code.visualstudio.com/"><img src="./IMG/VSC.png" width="60px" /></a>
-  <a href="https://www.sublimetext.com/"><img src="./IMG/SublimeText.png" width="60px" /></a>
-  <a href="https://obsidian.md/"><img src="./IMG/Obsidian.png" width="60px" /></a>
-  <a href="https://www.figma.com/"><img src="./IMG/Figma.png" width="60px" /></a>
+  <a href="https://code.visualstudio.com/"><img src="./IMG/VSC.png" width="60px" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.sublimetext.com/"><img src="./IMG/SublimeText.png" width="60px" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://obsidian.md/"><img src="./IMG/Obsidian.png" width="60px" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/"><img src="./IMG/Figma.png" width="60px" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.notion.so/"><img src="./IMG/Notion.png" width="60px" /></a>
 </div>
 
@@ -93,10 +93,10 @@
 ## <div align="center">Operating Systems I Manage</div>
 
 <div align="center">
-  <a href="https://www.apple.com/"><img src="./IMG/Apple.png" width="80px" /></a>
-  <a href="https://www.microsoft.com/"><img src="./IMG/Windows.png" width="80px" /></a>
-  <a href="https://ubuntu.com/"><img src="./IMG/Ubuntu.png" width="80px" /></a>
-  <a href="https://www.linux.org/"><img src="./IMG/Linux.png" width="80px" /></a>
+  <a href="https://www.apple.com/"><img src="./IMG/Apple.png" width="80px" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/"><img src="./IMG/Windows.png" width="80px" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://ubuntu.com/"><img src="./IMG/Ubuntu.png" width="80px" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org/"><img src="./IMG/Linux.png" width="80px" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.kali.org/"><img src="./IMG/KaliLinux.png" width="80px" /></a>
 </div>
 
@@ -142,10 +142,7 @@ When I have free time to study, I delve into programming languages and enjoy wor
 Currently, I'm in the sixth semester of high school in Mexico, I'm 18 years old, and I'm learning English. At my school, I specialize in the area of physical-mathematics. In the afternoons, I attend mandatory extracurricular classes where I study topics of interest with my teacher, which are accessible to the class. Recently, we set up a Pi-Hole using Ubuntu, which has been useful for blocking ads from the modem/router.
 </div>
 
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br>
 
 <!-- GitHub Stats Section - (https://github.com/anuraghazra/github-readme-stats) -->
 
