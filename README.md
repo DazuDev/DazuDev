@@ -86,7 +86,7 @@
 
 <!-- Operating Systems Section -->
 
-## <div align="center">Operating Systems I Manage</div>
+## <div align="center">Operating Systems I Manage | And Their Terminals</div>
 
 <div align="center">
   <img src="./IMG/Apple.png" width="80px" />&nbsp;&nbsp;&nbsp;
