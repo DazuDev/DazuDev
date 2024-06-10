@@ -24,13 +24,17 @@
       <td align="center">
         <img src="./IMG/Gmail.png" width="50px" alt="Gmail Icon">
       </td>
-      <td align="center"><a href="mailto:dazu.dev@gmail.com">dazu.dev@gmail.com</a></td>
+      <td align="center">
+        <a href="mailto:dazu.dev@gmail.com">dazu.dev@gmail.com</a>
+      </td>
     </tr>
     <tr>
       <td align="center">
         <img src="./IMG/LinkedIn.png" width="50px" alt="LinkedIn Icon">
       </td>
-      <td align="center"><a href="https://www.linkedin.com/in/dazu/">Daniel Zúñiga <sub>(Dazu)</sub></a></td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/dazu/">Daniel Zúñiga <sub>(Dazu)</sub></a>
+      </td>
     </tr>
   </table>
 </div>
