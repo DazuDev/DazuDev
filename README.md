@@ -19,18 +19,18 @@
 ## <div align="center">Contact</div>
 
 <div align="center">
-  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+  <table  cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
     <tr>
-      <td align="center" style="padding: 0; margin: 0; line-height: 0;">
+      <td align="center" style="display: block;">
         <a href="https://mail.google.com/"><img src="./IMG/Gmail.png" width="50px" alt="Gmail Icon" style="display: block;"></a>
       </td>
-      <td align="center" style="padding-left: 10px;"><a href="mailto:dazu.dev@gmail.com">dazu.dev@gmail.com</a></td>
+      <td align="center"><a href="mailto:dazu.dev@gmail.com">dazu.dev@gmail.com</a></td>
     </tr>
     <tr>
-      <td align="center" style="padding: 0; margin: 0; line-height: 0;">
+      <td align="center" style="display: block;">
         <a href="https://www.linkedin.com/"><img src="./IMG/LinkedIn.png" width="50px" alt="LinkedIn Icon" style="display: block;"></a>
       </td>
-      <td align="center" style="padding-left: 10px;"><a href="https://www.linkedin.com/in/dazu/">Daniel Zúñiga <sub>(Dazu)</sub></a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/dazu/">Daniel Zúñiga <sub>(Dazu)</sub></a></td>
     </tr>
   </table>
 </div>
