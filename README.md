@@ -67,8 +67,7 @@
 ### Learning..
 
 <div style="display: flex;">
-  <img src="./IMG/React-Dark.svg" width="60px">&nbsp;&nbsp;&nbsp;
-  <img src="./IMG/Cpp.png" width="60px" />
+  <img src="./IMG/React-Dark.svg" width="60px">
 </div>
 
 <!-- Currently Working On Section -->
