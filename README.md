@@ -58,9 +58,9 @@
 ### Other Technologies
 
 <div style="display: flex;">
-  <img src="./IMG/Git.png" width="60px" />&nbsp;&nbsp;&nbsp;
-  <img src="./IMG/Powershell.png" width="60px" />&nbsp;&nbsp;&nbsp;
   <img src="./IMG/Bash.png" width="60px" />&nbsp;&nbsp;&nbsp;
+  <img src="./IMG/Powershell.png" width="60px" />&nbsp;&nbsp;&nbsp;
+  <img src="./IMG/Git.png" width="60px" />&nbsp;&nbsp;&nbsp;
   <img src="./IMG/Markdown.png" width="60px" />
 </div>
 
