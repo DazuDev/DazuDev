@@ -19,7 +19,7 @@
 ## <div align="center">Contact</div>
 
 <div align="center">
-  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+  <table>
     <tr>
       <td align="center">
         <a href="https://mail.google.com/"><img src="./IMG/Gmail.png" width="50px" alt="Gmail Icon"></a>
