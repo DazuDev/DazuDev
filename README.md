@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://www.linkedin.com/"><img src="./IMG/LinkedIn.png" width="50px" alt="LinkedIn Icon"></a>
+        <img src="./IMG/LinkedIn.png" width="50px" alt="LinkedIn Icon">
       </td>
       <td align="center"><a href="https://www.linkedin.com/in/dazu/">Daniel Zúñiga <sub>(Dazu)</sub></a></td>
     </tr>
