@@ -22,7 +22,7 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://mail.google.com/"><img src="./IMG/Gmail.png" width="50px" alt="Gmail Icon"></a>
+        <img src="./IMG/Gmail.png" width="50px" alt="Gmail Icon">
       </td>
       <td align="center"><a href="mailto:dazu.dev@gmail.com">dazu.dev@gmail.com</a></td>
     </tr>
