@@ -19,21 +19,30 @@
 ## <div align="center">Contact</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://mail.google.com/"><img src="./IMG/Gmail.png" width="50px" alt="Gmail Icon"></a>
+  <table style="border-collapse: collapse; width: 50%; border: 1px solid #ddd;">
+    <tr style="background-color: #f9f9f9;">
+      <td align="center" style="padding: 10px; border: 1px solid #ddd;">
+        <a href="https://mail.google.com/" target="_blank" rel="noopener noreferrer">
+          <img src="./IMG/Gmail.png" width="50px" alt="Gmail Icon">
+        </a>
       </td>
-      <td align="center"><a href="mailto:dazu.dev@gmail.com">dazu.dev@gmail.com</a></td>
+      <td align="center" style="padding: 10px; border: 1px solid #ddd;">
+        <a href="mailto:dazu.dev@gmail.com">dazu.dev@gmail.com</a>
+      </td>
     </tr>
     <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/"><img src="./IMG/LinkedIn.png" width="50px" alt="LinkedIn Icon"></a>
+      <td align="center" style="padding: 10px; border: 1px solid #ddd;">
+        <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
+          <img src="./IMG/LinkedIn.png" width="50px" alt="LinkedIn Icon">
+        </a>
       </td>
-      <td align="center"><a href="https://www.linkedin.com/in/dazu/">Daniel Zúñiga <sub>(Dazu)</sub></a></td>
+      <td align="center" style="padding: 10px; border: 1px solid #ddd;">
+        <a href="https://www.linkedin.com/in/dazu/">Daniel Zúñiga <sub>(Dazu)</sub></a>
+      </td>
     </tr>
   </table>
 </div>
+
 
 <!-- Skill Set Section -->
 
