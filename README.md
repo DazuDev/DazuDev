@@ -56,7 +56,6 @@
 <div style="display: flex;">
   <img src="./IMG/Javascript.png" width="60px" />&nbsp;&nbsp;&nbsp;
   <img src="./IMG/Python.png" width="60px" />&nbsp;&nbsp;&nbsp;
-  <img src="./IMG/Mysql.png" width="60px" />
 </div>
 
 ### Other Technologies
