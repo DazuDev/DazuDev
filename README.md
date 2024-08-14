@@ -25,7 +25,7 @@
         <img src="./IMG/Gmail.png" width="50px" alt="Gmail Icon">
       </td>
       <td align="center">
-        <a href="mailto:contact.dazu@gmail.com">contact.dazu@gmail.com</a>
+        <a href="mailto:contact@dazudev.net">contact@dazudev.net</a>
       </td>
     </tr>
     <tr>
