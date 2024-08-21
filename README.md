@@ -16,7 +16,7 @@
 
 <!-- (https://capsule-render.vercel.app/) -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=80&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=80&section=header"/> -->
 
 <!-- Contact Section -->
 
