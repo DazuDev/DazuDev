@@ -1,9 +1,5 @@
 <!-- For the icons I used the website skillicons (https://skillicons.dev/) -->
 
-<!-- (https://capsule-render.vercel.app/) -->
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=80&section=header"/>
-
 <!-- Banner -->
 
 <!-- <img src="./IMG/Banner-mid-short.png" width="100%" /> -->
@@ -17,6 +13,10 @@
 -->
 
 <img width=100% src="./IMG/Final Desing.png">
+
+<!-- (https://capsule-render.vercel.app/) -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=80&section=header"/>
 
 <!-- Contact Section -->
 
