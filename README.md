@@ -71,12 +71,6 @@
   <img src="./IMG/Markdown.png" width="60px" />
 </div>
 
-### Learning..
-
-<div style="display: flex;">
-  <img src="./IMG/React-Dark.svg" width="60px">
-</div>
-
 <!-- Currently Working On Section -->
 
 ## <div align="center">I'm Currently Working On</div>
