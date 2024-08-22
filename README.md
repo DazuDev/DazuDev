@@ -79,8 +79,7 @@
   <img src="./IMG/VSC.png" width="60px" />&nbsp;&nbsp;&nbsp;
   <img src="./IMG/SublimeText.png" width="60px" />&nbsp;&nbsp;&nbsp;
   <img src="./IMG/Obsidian.png" width="60px" />&nbsp;&nbsp;&nbsp;
-  <img src="./IMG/Figma.png" width="60px" />&nbsp;&nbsp;&nbsp;
-  <img src="./IMG/Notion.png" width="60px" />
+  <img src="./IMG/Figma.png" width="60px" />
 </div>
 
 <!-- Operating Systems Section -->
