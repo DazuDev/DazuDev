@@ -12,7 +12,7 @@
 </div> 
 -->
 
-<img width=100% src="./IMG/Final Desing.png">
+<img width=100% src="./IMG/Final Desing.svg">
 
 <!-- (https://capsule-render.vercel.app/) -->
 
