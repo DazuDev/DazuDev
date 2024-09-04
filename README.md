@@ -12,6 +12,8 @@
 </div> 
 -->
 
+# Hi, I'm Daniel Zúñiga (Dazu) and I study software developer
+
 <img width=100% src="./IMG/Final Desing.svg">
 
 <!-- (https://capsule-render.vercel.app/) -->
