@@ -12,7 +12,10 @@
 </div> 
 -->
 
-# Hi, I'm Daniel Zúñiga (Dazu) and I study software developer
+<div align="center">
+  <h1>Hi, I'm Daniel Zúñiga (Dazu) and I study software developer</h1>
+</div>
+
 
 <img width=100% src="./IMG/Final Desing.svg">
 
