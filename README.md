@@ -13,7 +13,7 @@
 -->
 
 <div align="center">
-  <h1>Hi, I'm Daniel Zúñiga (Dazu) and I study software development</h1>
+  <h1>Hi, I'm a software developer and my name is Daniel Zúñiga (Dazu).</h1>
 </div>
 
 <img width=100% src="./IMG/Final Desing.png">
