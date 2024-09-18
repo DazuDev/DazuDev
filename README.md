@@ -16,7 +16,7 @@
   <h1>Hi, I'm Daniel Zúñiga (Dazu) and I study software development</h1>
 </div>
 
-<img width=100% src="./IMG/Final Desing.png">
+<img width=100% src="./IMG/desing-github.png">
 
 <!-- (https://capsule-render.vercel.app/) -->
 
