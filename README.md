@@ -12,10 +12,6 @@
 </div>
 -->
 
-<div align="center">
-  <h1>Hi, I'm a Software Developer and my name is Daniel Zúñiga (Dazu).</h1>
-</div>
-
 <img width=100% src="./IMG/desing-github.png">
 
 <!-- (https://capsule-render.vercel.app/) -->
