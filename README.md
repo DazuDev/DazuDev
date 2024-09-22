@@ -47,24 +47,18 @@
 
 # <div align="center">My Skill Set</div>
 
-### Frontend
-
-<div style="display: flex;">
-  <img src="./IMG/Html.png" width="60px" />&nbsp;&nbsp;&nbsp;
-  <img src="./IMG/Css.png" width="60px" />&nbsp;&nbsp;&nbsp;
-  <img src="./IMG/Javascript.png" width="60px" />
-</div>
-
-### Backend
+### Programming Lenguages
 
 <div style="display: flex;">
   <img src="./IMG/Javascript.png" width="60px" />&nbsp;&nbsp;&nbsp;
-  <img src="./IMG/Python.png" width="60px" />&nbsp;&nbsp;&nbsp;
+  <img src="./IMG/Python.png" width="60px" />
 </div>
 
 ### Other Technologies
 
 <div style="display: flex;">
+  <img src="./IMG/Html.png" width="60px" />&nbsp;&nbsp;&nbsp;
+  <img src="./IMG/Css.png" width="60px" />&nbsp;&nbsp;&nbsp;
   <img src="./IMG/Bash.png" width="60px" />&nbsp;&nbsp;&nbsp;
   <img src="./IMG/Powershell.png" width="60px" />&nbsp;&nbsp;&nbsp;
   <img src="./IMG/Git.png" width="60px" />&nbsp;&nbsp;&nbsp;
