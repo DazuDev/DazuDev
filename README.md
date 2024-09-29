@@ -6,9 +6,11 @@
 </div>
 
 <!-- Banner -->
+
 <img width="100%" src="./IMG/desing-github.png">
 
 <!-- Contact -->
+
 ## <div align="center">Contact</div>
 
 <div align="center">
@@ -33,6 +35,7 @@
 </div>
 
 <!-- Skills -->
+
 ## <div align="center">My Skill Set</div>
 
 ### Frontend
@@ -54,6 +57,7 @@
 </div>
 
 <!-- I currently use -->
+
 ## <div align="center">I currently use this tools</div>
 
 <div align="center">
@@ -61,6 +65,7 @@
 </div>
 
 <!-- Operative Sistems -->
+
 ## <div align="center">Operating Systems I Manage</div>
 
 <div align="center">
@@ -72,6 +77,7 @@
 </div>
 
 <!-- Languages -->
+
 ## <div align="center">Languages</div>
 
 <table align="center">
@@ -88,6 +94,7 @@
 </table>
 
 <!-- About Me -->
+
 ## <div align="center">About Me</div>
 
 <div>
