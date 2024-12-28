@@ -11,9 +11,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./IMG/GitHub-banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="./IMG/GitHub-banner-white.png">
-    <img src="./IMG/GitHub-banner-white.png" alt="DazuDev Banner" width="965">
+    <source media="(prefers-color-scheme: dark)" srcset="./IMG/GitHub-Dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./IMG/GitHub-White.png">
+    <img src="./IMG/GitHub-Dark.png" alt="DazuDev Banner" width="965">
   </picture>
 </p>
 
