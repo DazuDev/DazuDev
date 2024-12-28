@@ -7,7 +7,13 @@
 
 <!-- Banner -->
 
-<img width="100%" src="./IMG/desing-github.png">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./IMG/GitHub-banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./IMG/GitHub-banner-white.png">
+    <img src="./IMG/GitHub-banner-white.png" alt="DazuDev Banner" width="965">
+  </picture>
+</p>
 
 <!-- Contact -->
 
