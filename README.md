@@ -48,21 +48,15 @@
 
 ### Frontend
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" width="180px" />
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js" width="180px" />
 
 ### Backend
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python" width="120px" />
-</div>
+<img src="https://skillicons.dev/icons?i=js,python" width="120px" />
 
 ### Other Technologies
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=bash,powershell,git,markdown" width="240px" />
-</div>
+<img src="https://skillicons.dev/icons?i=bash,powershell,git,markdown" width="240px" />
 
 <!-- I currently use -->
 
