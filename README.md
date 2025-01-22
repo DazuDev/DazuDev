@@ -116,15 +116,5 @@
 
 <br>
 
-<!-- GitHub statistics -->
-<div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=DazuDev&show_icons=true&theme=
-    transparent&rank_icon=github&border_color=8a4af3&title_color=8a4af3&text_color=FFFFFF&icon_color=8a4af3"
-    media="(prefers-color-scheme: dark)">
-    <img src="https://github-readme-stats.vercel.app/api?username=DazuDev&show_icons=true" />
-  </picture>
-</div>
-
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=884DFF&height=200&section=footer"/>
