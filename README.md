@@ -12,7 +12,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./IMG/GitHub-Dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="./IMG/GitHub-White.png">
+    <source media="(prefers-color-scheme: light)" srcset="./IMG/GitHub-Light.png">
     <img src="./IMG/GitHub-Dark.png" alt="DazuDev Banner" width="965">
   </picture>
 </p>
