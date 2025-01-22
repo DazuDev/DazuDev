@@ -85,11 +85,11 @@
 <table align="center">
   <tr>
     <td align="center">
-      Español | Spanish <sup>Native</sup><br>
+      Spanish MX <sup>Native</sup><br>
       <img src="./IMG/MX.png" height="70px" alt="Mexico Flag" />
     </td>
     <td align="center">
-      English | Inglés <sup>Learning</sup><br>
+      English B2 <sup>Learning</sup><br>
       <img src="./IMG/US.png" height="70px" alt="USA Flag" />
     </td>
   </tr>
