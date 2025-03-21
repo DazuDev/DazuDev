@@ -95,19 +95,6 @@
   </tr>
 </table>
 
-<!-- About Me -->
-
-## <div align="center">About Me</div>
-
-<div>
-  <img src="./IMG/Coding.png" width="120px" align="left" />
-  Hello! I'm passionate about technology, specifically programming, software development, and hardware.<br><br>
-  I enjoy learning new programming languages and working on small projects. My latest projects include automating
-  processes in Windows using .bat, .vbs, .reg, and .ps1 files.<br><br>
-  I'm currently in my last year of high school in Mexico, and in my free time, I study programming and set up cool
-  projects like Pi-Hole with Ubuntu.
-</div>
-
 <br>
 
 <!-- Footer -->
