@@ -52,7 +52,7 @@
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=python" width="120px" />
+<img src="https://skillicons.dev/icons?i=python" width="55px" />
 
 ### Other Technologies
 
