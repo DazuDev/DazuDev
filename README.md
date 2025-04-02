@@ -46,17 +46,7 @@
 
 ## <div align="center">My Skill Set</div>
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js" width="180px" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=python" width="55px" />
-
-### Other Technologies
-
-<img src="https://skillicons.dev/icons?i=bash,powershell,git,markdown" width="240px" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,bash,powershell,git,markdown" width="540px" />
 
 <!-- I currently use -->
 
