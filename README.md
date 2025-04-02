@@ -46,7 +46,9 @@
 
 ## <div align="center">My Skill Set</div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,bash,powershell,git,markdown" width="540px" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,bash,powershell,git,markdown" width="540px" />
+</div>
 
 <!-- I currently use -->
 
